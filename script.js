@@ -9,7 +9,6 @@ const skincareMaxText = 84;
 const makeupMaxImg = 83;
 const makeupMaxText = 84;
 
-// Load description from txt file
 async function loadDescription(path) {
   try {
     const res = await fetch(path);
