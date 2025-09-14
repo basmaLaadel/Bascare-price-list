@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <title>Bascare: Skincare & Makeup Prices</title>
 <link rel="stylesheet" href="style.css">
 </head>
@@ -12,17 +14,34 @@
     <h1>Bascare: Skincare & Makeup Prices</h1>
     <p>منتجات العناية بالبشرة والمكياج</p>
     <nav>
-      <div class="nav-left">
-        <button class="filter-btn" data-category="all">All</button>
-        <button class="filter-btn" data-category="skincare">Skincare</button>
-        <button class="filter-btn" data-category="makeup">Makeup</button>
-      </div>
-      <div class="nav-right">
-        <a href="https://wa.me/201055001378" target="_blank" class="contact-btn">Contact Us</a>
-      </div>
+      <ul class="nav-menu">
+        <li><a href="#" class="filter-btn" data-category="all">All</a></li>
+        <li><a href="#" class="filter-btn" data-category="skincare">Skincare</a></li>
+        <li><a href="#" class="filter-btn" data-category="makeup">Makeup</a></li>
+      </ul>
+<ul class="nav-icons">
+  <li>
+    <a href="https://wa.me/201055001378" target="_blank" class="whatsapp">
+      <i class="fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.instagram.com/skincarebybasbosa?igsh=MXN6YjkyNzEwaHMzbA%3D%3D&utm_source=qr" target="_blank" class="instagram">
+      <i class="fab fa-instagram"></i>
+    </a>
+  </li>
+    <li>
+          <a href="https://www.tiktok.com/@bascare02?_t=ZS-8ziu7nAzPsu&_r=1 " target="_blank" class="social-icon tiktok">
+            <i class="fab fa-tiktok"></i>
+          </a>
+        </li>
+</ul>
+
+
     </nav>
   </div>
 </header>
+
 
 <div class="product-grid" id="product-list"></div>
 
