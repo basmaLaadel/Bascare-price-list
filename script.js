@@ -9,122 +9,145 @@ const skincareMaxText = 84;
 const makeupMaxImg = 83;
 const makeupMaxText = 84;
 
-// Load description
-async function loadDescription(path){
-  try{
+// Load description from txt file
+async function loadDescription(path) {
+  try {
     const res = await fetch(path);
-    if(!res.ok) throw new Error("File not found");
+    if (!res.ok) throw new Error("File not found");
     return await res.text();
-  }catch(e){ return null; }
+  } catch (e) {
+    return null;
+  }
 }
 
 // Short text (~6 words)
-function shortText(text){
-  const words = text.split(" ");
-  if(words.length<=6) return text;
-  return words.slice(0,6).join(" ") + "...";
+function shortText(text) {
+  if (!text) return "";
+  const words = text.split(/\s+/); // أي مسافة
+  if (words.length <= 6) return text;
+  return words.slice(0, 6).join(" ") + "...";
 }
 
-// Create card
-async function createCard(imgPath, textPath, category){
+// Create product card
+async function createCard(imgPath, textPath, category) {
   const desc = await loadDescription(textPath);
-  if(!desc) return null;
+  if (!desc) return null; // لو الملف مش موجود، ما نعملش الكارت
 
-  try{
-    await new Promise((resolve,reject)=>{
+  // Check image
+  try {
+    await new Promise((resolve, reject) => {
       const img = new Image();
       img.src = imgPath;
-      img.onload=resolve;
-      img.onerror=reject;
+      img.onload = resolve;
+      img.onerror = reject;
     });
-  }catch(e){ return null; }
+  } catch (e) {
+    return null; // لو الصورة مش موجودة
+  }
 
   const card = document.createElement("div");
-  card.className="card";
-  card.setAttribute("data-category",category);
-  card.innerHTML=`<img src="${imgPath}" alt=""><div class="content"><p>${shortText(desc)}</p></div>`;
+  card.className = "card";
+  card.setAttribute("data-category", category);
 
-  const productList=document.getElementById("product-list");
-  card.style.animationDelay=`${0.05*productList.children.length}s`;
+  card.innerHTML = `
+    <img src="${imgPath}" alt="">
+    <div class="content">
+      <p>${shortText(desc)}</p>
+    </div>
+  `;
 
   // Modal
-  card.addEventListener("click",()=>{
-    const modal=document.getElementById("modal");
-    const modalImg=document.getElementById("modal-img");
-    const modalText=document.getElementById("modal-text");
-    modalImg.src=imgPath;
-    modalText.textContent=desc;
-    modal.style.display="block";
-    setTimeout(()=>modal.classList.add("show"),10);
+  card.addEventListener("click", () => {
+    const modal = document.getElementById("modal");
+    const modalImg = document.getElementById("modal-img");
+    const modalText = document.getElementById("modal-text");
+
+    // تحويل السطور الجديدة الى <br> عشان يظهر السطر الفاضي
+    modalText.innerHTML = desc.replace(/\n/g, "<br>");
+    modalImg.src = imgPath;
+    modal.style.display = "block";
+    modal.classList.add("show");
   });
 
   return card;
 }
 
-// Load skincare
-async function loadSkincare(productList){
-  let imgIndex=1,textIndex=2;
-  while(imgIndex<=skincareMaxImg && textIndex<=skincareMaxText){
-    const imgPath=`${skincareImgFolder}/${imgIndex}.jpg`;
-    const textPath=`${skincareTextFolder}/${textIndex}.txt`;
-    const card=await createCard(imgPath,textPath,"skincare");
-    if(card) productList.appendChild(card);
-    imgIndex+=2;textIndex+=2;
+// Load skincare products
+async function loadSkincare(productList) {
+  let imgIndex = 1;
+  let textIndex = 2;
+
+  while (imgIndex <= skincareMaxImg && textIndex <= skincareMaxText) {
+    const imgPath = `${skincareImgFolder}/${imgIndex}.jpg`;
+    const textPath = `${skincareTextFolder}/${textIndex}.txt`;
+    const card = await createCard(imgPath, textPath, "skincare");
+    if (card) productList.appendChild(card);
+
+    imgIndex += 2;
+    textIndex += 2;
   }
 }
 
-// Load makeup
-async function loadMakeup(productList){
-  let imgIndex=1,textIndex=2;
-  while(imgIndex<=makeupMaxImg && textIndex<=makeupMaxText){
-    const imgPath=`${makeupImgFolder}/${imgIndex}.jpg`;
-    const textPath=`${makeupTextFolder}/${textIndex}.txt`;
-    const card=await createCard(imgPath,textPath,"makeup");
-    if(card) productList.appendChild(card);
-    imgIndex+=2;textIndex+=2;
+// Load makeup products
+async function loadMakeup(productList) {
+  let imgIndex = 1;
+  let textIndex = 2;
+
+  while (imgIndex <= makeupMaxImg && textIndex <= makeupMaxText) {
+    const imgPath = `${makeupImgFolder}/${imgIndex}.jpg`;
+    const textPath = `${makeupTextFolder}/${textIndex}.txt`;
+    const card = await createCard(imgPath, textPath, "makeup");
+    if (card) productList.appendChild(card);
+
+    imgIndex += 2;
+    textIndex += 2;
   }
 }
 
 // Load all products
-async function loadProducts(){
-  const productList=document.getElementById("product-list");
+async function loadProducts() {
+  const productList = document.getElementById("product-list");
   await loadSkincare(productList);
   await loadMakeup(productList);
 }
 
-// Filter
-function setupFilters(){
-  const buttons=document.querySelectorAll(".filter-btn");
-  buttons.forEach(btn=>{
-    btn.addEventListener("click",()=>{
-      const category=btn.dataset.category;
-      const cards=document.querySelectorAll(".card");
-      cards.forEach(card=>{
-        if(category==="all") card.style.display="block";
-        else card.style.display=(card.dataset.category===category)?"block":"none";
+// Filter setup
+function setupFilters() {
+  const buttons = document.querySelectorAll(".filter-btn");
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const category = btn.dataset.category;
+      const cards = document.querySelectorAll(".card");
+      cards.forEach((card) => {
+        card.style.display =
+          category === "all" || card.dataset.category === category
+            ? "block"
+            : "none";
       });
     });
   });
 }
 
 // Modal close
-window.addEventListener("DOMContentLoaded",()=>{
-  const modal=document.getElementById("modal");
-  const closeBtn=document.querySelector(".close");
-  closeBtn.onclick=()=>{
+window.addEventListener("DOMContentLoaded", () => {
+  const modal = document.getElementById("modal");
+  const closeBtn = document.querySelector(".close");
+
+  closeBtn.onclick = () => {
+    modal.style.display = "none";
     modal.classList.remove("show");
-    setTimeout(()=>modal.style.display="none",400);
   };
-  modal.onclick=(e)=>{
-    if(e.target===modal){
+
+  modal.onclick = (e) => {
+    if (e.target === modal) {
+      modal.style.display = "none";
       modal.classList.remove("show");
-      setTimeout(()=>modal.style.display="none",400);
     }
   };
 });
 
 // Run
-window.onload=async()=>{
+window.onload = async () => {
   await loadProducts();
   setupFilters();
 };
