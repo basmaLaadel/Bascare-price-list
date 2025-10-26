@@ -4,9 +4,9 @@ const skincareTextFolder = "imgs/skincare";
 const makeupImgFolder = "imgs/makeup";
 const makeupTextFolder = "imgs/makeup";
 
-const skincareMaxImg = 199;
+const skincareMaxImg = 198;
 const skincareMaxText = 200;
-const makeupMaxImg = 199;
+const makeupMaxImg = 198;
 const makeupMaxText = 200;
 
 async function loadDescription(path) {
