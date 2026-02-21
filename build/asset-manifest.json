@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bascare-price-list/static/css/main.922f8de3.css",
+    "main.js": "/Bascare-price-list/static/js/main.a35f8cf7.js",
+    "static/media/logo.jpeg": "/Bascare-price-list/static/media/logo.2726198fa43e412d4cb0.jpeg",
+    "index.html": "/Bascare-price-list/index.html",
+    "main.922f8de3.css.map": "/Bascare-price-list/static/css/main.922f8de3.css.map",
+    "main.a35f8cf7.js.map": "/Bascare-price-list/static/js/main.a35f8cf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.922f8de3.css",
+    "static/js/main.a35f8cf7.js"
+  ]
+}
