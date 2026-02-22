@@ -1,1634 +1,1634 @@
 [
     {
-        "category": "skincare",
+        "order": 14,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/27.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 600
+                "price": 600,
+                "name": "تقسيم 10 مل"
             }
         ],
-        "description": "Medicube pdrn peptide pink serum\r\nDNA سلمون \r\nمع البيبتدايد بيشتغل ع تحسين حاجز البشره المتضرر \r\nوبيوحد لون البشره ويجدد خلايا الجلد و anti-aging \r\nعباره عن سحر للبشره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/27.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:45 PM UTC+2",
         "name": "Medicube pdrn peptide pink",
-        "order": 14,
+        "createdAt": "January 21, 2026 at 03:24:45 PM UTC+2",
+        "description": "Medicube pdrn peptide pink serum\r\nDNA سلمون \r\nمع البيبتدايد بيشتغل ع تحسين حاجز البشره المتضرر \r\nوبيوحد لون البشره ويجدد خلايا الجلد و anti-aging \r\nعباره عن سحر للبشره",
+        "category": "skincare",
         "id": "0Oyp15hSVQa1rtGLewwa"
     },
     {
-        "category": "makeup",
+        "order": 53,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/17.jpg?raw=true",
         "sizes": [
             {
-                "name": "1ml",
-                "price": 220
+                "price": 220,
+                "name": "1ml"
             },
             {
-                "name": "2ml",
-                "price": 420
+                "price": 420,
+                "name": "2ml"
             }
         ],
-        "description": "tarte concealer \r\nتغطيه عاليه جدا جدا يخفي جميع عيوب البشره \r\nمناسب لجميع انواع البشره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/17.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:25:16 PM UTC+2",
         "name": "tarte concealer \r\nتغطيه عاليه",
-        "order": 53,
+        "createdAt": "January 21, 2026 at 03:25:16 PM UTC+2",
+        "description": "tarte concealer \r\nتغطيه عاليه جدا جدا يخفي جميع عيوب البشره \r\nمناسب لجميع انواع البشره",
+        "category": "makeup",
         "id": "0pfo4WXkr3gC9B1n781b"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=13PNZt-TZaniN4gmxQwrLORWxqxoA18cY&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=13PNZt-TZaniN4gmxQwrLORWxqxoA18cY&sz=w1000",
+        "category": "perfumes",
         "name": "Lattafa Eclaire",
         "createdAt": "2026-02-08T19:46:00.751000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "1Ge60KU3OXrDH0DF2Wff"
     },
     {
-        "category": "skincare",
+        "order": 39,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/83.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 20 جم (في عبوه باودر+مرايه)",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 20 جم (في عبوه باودر+مرايه)"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/83.jpg?raw=true",
+        "name": "بودرة Rose Berry تمتص",
         "description": "بودرة Rose Berry\n\n تمتص الزيوت الزائدة وتترك البشرة ناعمة وحريرية.\n تمنح البشرة مظهرًا غير لامع ومنعش طوال اليوم.\nثبات العطر: تعزز من دوام رائحة الجسم لفترة أطول.\nحماية من الاحتكاك: تقلل التهيج في المناطق الحساسة \nمثل الرقبة وتحت الإبط والفخذين.",
         "createdAt": "January 21, 2026 at 03:24:54 PM UTC+2",
-        "name": "بودرة Rose Berry تمتص",
-        "order": 39,
+        "category": "skincare",
         "id": "2xJDVaTPcdzbo8kgStev"
     },
     {
-        "category": "skincare",
+        "order": 42,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/89.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 260
+                "price": 260,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 500
+                "price": 500,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 15 مل نص العبوه",
-                "price": 800
+                "price": 800,
+                "name": "تقسيم 15 مل نص العبوه"
             }
         ],
-        "description": "Bakuchiol plumping serum \r\nبديل لطيف للريتنول\r\nيقلل الخطوط الرفيعه و التجاعيد\r\n ويحسن مرونه البشره \r\nيرطب البشره ويعطيها مظهر ممتلئplumping",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/89.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:55 PM UTC+2",
         "name": "Bakuchiol plumping serum \r\nبديل",
-        "order": 42,
+        "createdAt": "January 21, 2026 at 03:24:55 PM UTC+2",
+        "description": "Bakuchiol plumping serum \r\nبديل لطيف للريتنول\r\nيقلل الخطوط الرفيعه و التجاعيد\r\n ويحسن مرونه البشره \r\nيرطب البشره ويعطيها مظهر ممتلئplumping",
+        "category": "skincare",
         "id": "4I6lDuzUbxyCDFUqPY60"
     },
     {
-        "category": "skincare",
+        "order": 33,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/71.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 30 جم",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 30 جم"
             }
         ],
-        "description": "Hair Mask Karseell Collagen\r\n\r\nترميم عميق وتغذية متكاملة للشعر التالف والجاف\r\n هو علاج فعّال للشعر التالف، المصبوغ، أو المعالج حراريًا \r\nبتركيبة غنية بالكولاجين والبروتينات الطبيعية، \r\nيعيد إلى شعرك الحيوية، النعومة، واللمعان من أول استخدام",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/71.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:52 PM UTC+2",
         "name": "Hair Mask Karseell Collagen\r\n\r\nترميم",
-        "order": 33,
+        "createdAt": "January 21, 2026 at 03:24:52 PM UTC+2",
+        "description": "Hair Mask Karseell Collagen\r\n\r\nترميم عميق وتغذية متكاملة للشعر التالف والجاف\r\n هو علاج فعّال للشعر التالف، المصبوغ، أو المعالج حراريًا \r\nبتركيبة غنية بالكولاجين والبروتينات الطبيعية، \r\nيعيد إلى شعرك الحيوية، النعومة، واللمعان من أول استخدام",
+        "category": "skincare",
         "id": "7jnxi67pzAeAbMrknD7l"
     },
     {
-        "category": "makeup",
+        "order": 48,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/7.jpg?raw=true",
         "sizes": [
             {
-                "name": "1ml",
-                "price": 160
+                "price": 160,
+                "name": "1ml"
             },
             {
-                "name": "1.5ml",
-                "price": 280
+                "price": 280,
+                "name": "1.5ml"
             },
             {
-                "name": "2ML",
-                "price": 350
+                "price": 350,
+                "name": "2ML"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/7.jpg?raw=true",
+        "name": "Born This Way Super",
         "description": "Born This Way Super Coverage Multi-use Concealer \n\n يغطي الهالات، التصبغات، والعيوب بفعالية \nبدون ما يبين على البشرة كأنه طبقة سميكة.\nمثالي حتى بدون فاونديشن\nيحتوي على ماء جوز الهند وحمض الهيالورونيك لترطيب البشرة ومنع الجفاف أو التشقق\nيدوم حتى 12–16 ساعة بدون ما يتأكسد أو يتكتل\nمقاوم للتجاعيد والخطوط الدقيقة\n\nالدرجات المتوفره:\nAlmond\nSNOW\nShortbread\nNUDE",
         "createdAt": "January 21, 2026 at 03:25:15 PM UTC+2",
-        "name": "Born This Way Super",
-        "order": 48,
+        "category": "makeup",
         "id": "7u3hpHz3jaiiotGeEyxl"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "Set of 7 mini perfume oils",
-                "price": 1300
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1IQZlgUq4unZY-tE8ICsTSc7hQxPgNShx&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1IQZlgUq4unZY-tE8ICsTSc7hQxPgNShx&sz=w1000",
+        "category": "perfumes",
         "name": "Assaf Perfume Oil Set – Exclusive Collection",
         "createdAt": "2026-02-08T16:55:11.692000+00:00",
         "description": "مجموعة عطور عَسّاف الزيتية الفاخرة تضم 7 أنواع مختلفة من العطور الزيتية المركزة بروائح متنوعة بين الزهري، المنعش، الدافئ، والخشبي لتناسب كل الأذواق والمناسبات.\nالتركيبة الزيتية تعطي ثبات أعلى وفوحان قريب وجذاب، مع عبوات أنيقة وحجم عملي مناسب للاستخدام اليومي والسفر\nNoble – Feeling – Gris Erik – Miss Sakura – Pink Lady – Wild Colt – Crown Spirit",
+        "sizes": [
+            {
+                "price": 1300,
+                "name": "Set of 7 mini perfume oils"
+            }
+        ],
         "id": "8DnVg1hf1ypneZxH4RD5"
     },
     {
-        "category": "skincare",
+        "order": 16,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/31.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 3 جم",
-                "price": 210
+                "price": 210,
+                "name": "تقسيم 3 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 510
+                "price": 510,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "some by mi retinol eye cream\r\nاقوي كريم للعين ريتنول وريتنال بيفتح التصبغات الي تحت العين ويعالج الحطوط الرفيعه والهالات\r\nمكافحة التجاعيد والخطوط الدقيقة: بفضل احتوائه على 0.1% من الريتينول والريتينال\r\nتفتيح الهالات السوداء",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/31.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:46 PM UTC+2",
         "name": "some by mi retinol",
-        "order": 16,
+        "createdAt": "January 21, 2026 at 03:24:46 PM UTC+2",
+        "description": "some by mi retinol eye cream\r\nاقوي كريم للعين ريتنول وريتنال بيفتح التصبغات الي تحت العين ويعالج الحطوط الرفيعه والهالات\r\nمكافحة التجاعيد والخطوط الدقيقة: بفضل احتوائه على 0.1% من الريتينول والريتينال\r\nتفتيح الهالات السوداء",
+        "category": "skincare",
         "id": "A0i7PFnPNBSWTQ7ooJ4G"
     },
     {
-        "category": "skincare",
+        "order": 19,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/37.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 195
+                "price": 195,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 280
+                "price": 280,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "Beauty of Joseon Rice Probiotics\r\n SPF 50+ sun cream \r\n\r\nيوفر حماية فعالة ضد أشعة UVB دون أن يترك أثرًا أبيض على البشرة.\r\nقوامه خفيف يشبه الكريم، يذوب بسلاسة عند التطبيق.\r\nيحتوي على 69٪ من ماء الأرز \r\nلمنح البشرة إشراقة طبيعية وتغذية عميقة\r\nبيدي نضاره و جلو طبيعي ف البشره وبيعالج التصبغات",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/37.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
         "name": "Beauty of Joseon Rice",
-        "order": 19,
+        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
+        "description": "Beauty of Joseon Rice Probiotics\r\n SPF 50+ sun cream \r\n\r\nيوفر حماية فعالة ضد أشعة UVB دون أن يترك أثرًا أبيض على البشرة.\r\nقوامه خفيف يشبه الكريم، يذوب بسلاسة عند التطبيق.\r\nيحتوي على 69٪ من ماء الأرز \r\nلمنح البشرة إشراقة طبيعية وتغذية عميقة\r\nبيدي نضاره و جلو طبيعي ف البشره وبيعالج التصبغات",
+        "category": "skincare",
         "id": "AnWxKjj2livDFGoYEzSb"
     },
     {
-        "category": "makeup",
+        "order": 47,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/5.jpg?raw=true",
         "sizes": [
             {
-                "name": "1ml",
-                "price": 135
+                "price": 135,
+                "name": "1ml"
             },
             {
-                "name": "2ml",
-                "price": 260
+                "price": 260,
+                "name": "2ml"
             },
             {
-                "name": "5ml",
-                "price": 600
+                "price": 600,
+                "name": "5ml"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/5.jpg?raw=true",
+        "name": "Easy Blur Natural Airbrush",
         "description": "Easy Blur Natural Airbrush Foundation\n with Niacinamide\n\nيشبه السيروم في قوامه، مما يجعله سهل التطبيق والدمج على البشرة\nغطية متوسطة قابلة للبناء: يمكنكِ التحكم في مستوى التغطية حسب رغبتك، \nمن لمسة خفيفة إلى تغطية متوسطة.\n مناسبًا للبشرة الحساسة والمعرضة لحب الشباب\nيحتوي ع 1.5% نياسيناميد\n\nالدرجات المتوفره :\nCashew  \nCreme Burlee\nAngel Food\nCustard\nCHAI\nShortbread",
         "createdAt": "January 21, 2026 at 03:25:14 PM UTC+2",
-        "name": "Easy Blur Natural Airbrush",
-        "order": 47,
+        "category": "makeup",
         "id": "AuPJfgHBaSvlaNWGzQEe"
     },
     {
-        "category": "makeup",
+        "order": 50,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/11.jpg?raw=true",
         "sizes": [
             {
-                "name": "2ml",
-                "price": 140
+                "price": 140,
+                "name": "2ml"
             },
             {
-                "name": "5ML",
-                "price": 360
+                "price": 360,
+                "name": "5ML"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/11.jpg?raw=true",
+        "name": "ELF Halo Glowيمنح البشرة",
         "description": "ELF Halo Glow\n\nيمنح البشرة إشراقة صحية ومضيئة بفضل تركيبته التي تعكس الضوء وتضيف مظهرًا ناعمًا\nيمكن استخدامه بمفرده لإطلالة طبيعية، أو تحت/فوق كريم الأساس، أو مزجه مع كريم الأساس، \nأو حتى كهايلايتر على مناطق محددة من الوجه.\nيحتوي على حمض الهيالورونيك لترطيب البشرة،\nبالإضافة إلى بودرة ناعمة لتقليل مظهر المسام والخطوط الدقيقة.\n\nالدرجات المتوفره :\nSHADE 0.5\nSHADE 1\nSHADE 3\nSHADE 4",
         "createdAt": "January 21, 2026 at 03:25:15 PM UTC+2",
-        "name": "ELF Halo Glowيمنح البشرة",
-        "order": 50,
+        "category": "makeup",
         "id": "B4l2YIjfN5YRQBoAh7mb"
     },
     {
-        "category": "makeup",
+        "order": 54,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/19.jpg?raw=true",
         "sizes": [
             {
-                "name": "2gm",
-                "price": 140
+                "price": 140,
+                "name": "2gm"
             },
             {
-                "name": "5gm",
-                "price": 350
+                "price": 350,
+                "name": "5gm"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/19.jpg?raw=true",
+        "name": "ELf primer يرطب و",
         "description": "ELf primer \nيرطب و ينعم البشره و يحسن من مظهر الميكب \nيثبت الميكب لاطول وقت",
         "createdAt": "January 21, 2026 at 03:25:17 PM UTC+2",
-        "name": "ELf primer يرطب و",
-        "order": 54,
+        "category": "makeup",
         "id": "BVVyTEd6gHZUl2O0qfAX"
     },
     {
-        "category": "skincare",
+        "order": 40,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/85.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 2 جم",
-                "price": 230
+                "price": 230,
+                "name": "تقسيم 2 جم"
             },
             {
-                "name": "تقسيم 5 جم",
-                "price": 450
+                "price": 450,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "العبوه كامله",
-                "price": 980
+                "price": 980,
+                "name": "العبوه كامله"
             }
         ],
-        "description": "celimax Retinal shot \r\nعباره عن ريتنال مخصص لمحاربه الشيخوخه \r\nو خطوط التجاعيد \r\nغني بتقنيه A-shot\r\n التي تتميز بجزيئات دقيقه (الابر) \r\nتساعد ع امتصاص البشره للمنتجات بعمق \r\nيشد و يجدد  مرونه البشره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/85.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:55 PM UTC+2",
         "name": "celimax Retinal shot \r\nعباره",
-        "order": 40,
+        "createdAt": "January 21, 2026 at 03:24:55 PM UTC+2",
+        "description": "celimax Retinal shot \r\nعباره عن ريتنال مخصص لمحاربه الشيخوخه \r\nو خطوط التجاعيد \r\nغني بتقنيه A-shot\r\n التي تتميز بجزيئات دقيقه (الابر) \r\nتساعد ع امتصاص البشره للمنتجات بعمق \r\nيشد و يجدد  مرونه البشره",
+        "category": "skincare",
         "id": "D9szbvQzt0A6v3YY0x6B"
     },
     {
-        "category": "skincare",
+        "order": 44,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/93.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 160
+                "price": 160,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "EMBRYOLISSE MOISTURISER\r\nيناسب  جميع أنواع البشرة\r\nيعزز إنتاج الكولاجين والإيلاستين، ما يؤدي يا \r\nوتحسين مرونة البشرة ومقاومة\r\n ظهور علامات الشيخوخة المبكرة.\r\nيمكن استخدامه كبرايمر قبل وضع المكياج أو مرطب يومي",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/93.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:56 PM UTC+2",
         "name": "EMBRYOLISSE MOISTURISER\r\nيناسب  جميع",
-        "order": 44,
+        "createdAt": "January 21, 2026 at 03:24:56 PM UTC+2",
+        "description": "EMBRYOLISSE MOISTURISER\r\nيناسب  جميع أنواع البشرة\r\nيعزز إنتاج الكولاجين والإيلاستين، ما يؤدي يا \r\nوتحسين مرونة البشرة ومقاومة\r\n ظهور علامات الشيخوخة المبكرة.\r\nيمكن استخدامه كبرايمر قبل وضع المكياج أو مرطب يومي",
+        "category": "skincare",
         "id": "E20XXoDHftReCBM3oW3C"
     },
     {
-        "category": "makeup",
+        "order": 63,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/37.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 180
+                "price": 180,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 350
+                "price": 350,
+                "name": "تقسيم 10 مل"
             }
         ],
-        "description": "charlotte Tilbury setting spray \r\nيحافظ على ثبات المكياج طوال اليوم\r\n\r\nيقلل مظهر المسام والخطوط الدقيقة\r\n\r\nيمنح ترطيبًا للبشرة \r\n\r\nمناسب لكل أنواع البشرة (دهنية، جافة، مختلطة، حساسة)",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/37.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:25:20 PM UTC+2",
         "name": "charlotte Tilbury setting spray",
-        "order": 63,
+        "createdAt": "January 21, 2026 at 03:25:20 PM UTC+2",
+        "description": "charlotte Tilbury setting spray \r\nيحافظ على ثبات المكياج طوال اليوم\r\n\r\nيقلل مظهر المسام والخطوط الدقيقة\r\n\r\nيمنح ترطيبًا للبشرة \r\n\r\nمناسب لكل أنواع البشرة (دهنية، جافة، مختلطة، حساسة)",
+        "category": "makeup",
         "id": "EEb1AbaMydSEc6Diafm0"
     },
     {
-        "category": "skincare",
+        "order": 30,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/61.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل (نص العبوه) في عبوه خارجيه",
-                "price": 650
+                "price": 650,
+                "name": "تقسيم 5 مل (نص العبوه) في عبوه خارجيه"
             },
             {
-                "name": "تقسيم 5 مل (نص العبوه) في العبوه الاصليه",
-                "price": 700
+                "price": 700,
+                "name": "تقسيم 5 مل (نص العبوه) في العبوه الاصليه"
             }
         ],
-        "description": "AXIS-Y Vegan Collagen Eye Serum\r\n\r\nسيروم مخصص للعناية بمنطقة تحت العين، بتركيبة نباتية لطيفة\r\n غنية بالكولاجين النباتي، \r\nمصمم خصيصًا لتقليل مظهر الخطوط الدقيقة،\r\n الانتفاخ، والهالات السوداء، مع ترطيب مكثف \r\nوعناية فائقة بالبشرة الحساسة حول العينين.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/61.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:51 PM UTC+2",
         "name": "AXIS-Y Vegan Collagen Eye",
-        "order": 30,
+        "createdAt": "January 21, 2026 at 03:24:51 PM UTC+2",
+        "description": "AXIS-Y Vegan Collagen Eye Serum\r\n\r\nسيروم مخصص للعناية بمنطقة تحت العين، بتركيبة نباتية لطيفة\r\n غنية بالكولاجين النباتي، \r\nمصمم خصيصًا لتقليل مظهر الخطوط الدقيقة،\r\n الانتفاخ، والهالات السوداء، مع ترطيب مكثف \r\nوعناية فائقة بالبشرة الحساسة حول العينين.",
+        "category": "skincare",
         "id": "F4oILQzqVZ5Mf1FSc0hF"
     },
     {
-        "category": "cosmetics",
-        "sizes": [
-            {
-                "name": "باكت(3 بارx 65gm)",
-                "price": 750
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1aBiTPrBk5e4-Xw--UcN2JcMLeppJRkUs&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1aBiTPrBk5e4-Xw--UcN2JcMLeppJRkUs&sz=w1000",
+        "category": "cosmetics",
         "name": "Kojie San soap-صابون الكوجيك اسيد",
         "createdAt": "2026-02-21T23:16:01.978000+00:00",
         "description": "تفتيح البشرة: يساعد على تقليل التصبغات والبقع الداكنة.\n\nتوحيد لون البشرة: يقلل من آثار الشمس وعدم تجانس اللون.\n\nتقليل آثار حب الشباب: يخفف من البقع الداكنة الناتجة عن الحبوب.\n\nتقليل الكلف والنمش: بفضل قدرته على تقليل إنتاج الميلانين.\n\nتنظيف عميق للبشرة: يزيل الأوساخ والزيوت الزائدة بلطف.\n\nمناسب للمناطق الداكنة: مثل الركب، الأكواع، وتحت الإبط.",
+        "sizes": [
+            {
+                "price": 750,
+                "name": "باكت(3 بارx 65gm)"
+            }
+        ],
         "id": "FZSHrSX1jdLRnBSsIaad"
     },
     {
-        "category": "skincare",
+        "order": 12,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/23.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 جم"
             },
             {
-                "name": "تقسيم 15 جم",
-                "price": 355
+                "price": 355,
+                "name": "تقسيم 15 جم"
             }
         ],
-        "description": "Medicube collagen wrapping mask \r\nماسك ليلي غني بالكولاجين يحافظ ع ترطيب البشره بعمق اثناء النوم\r\nترطيب عميق: بفضل حمض الهيالورونيك والجلسرين، يُحافظ على رطوبة البشرة طوال الليل\r\nتقوية حاجز البشرة: بفضل السيراميدات",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/23.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:45 PM UTC+2",
         "name": "Medicube collagen wrapping mask",
-        "order": 12,
+        "createdAt": "January 21, 2026 at 03:24:45 PM UTC+2",
+        "description": "Medicube collagen wrapping mask \r\nماسك ليلي غني بالكولاجين يحافظ ع ترطيب البشره بعمق اثناء النوم\r\nترطيب عميق: بفضل حمض الهيالورونيك والجلسرين، يُحافظ على رطوبة البشرة طوال الليل\r\nتقوية حاجز البشرة: بفضل السيراميدات",
+        "category": "skincare",
         "id": "G0GoWPFCrcTPueXM5W0y"
     },
     {
-        "category": "skincare",
+        "order": 7,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/13.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 مل",
-                "price": 175
+                "price": 175,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 15 مل",
-                "price": 270
+                "price": 270,
+                "name": "تقسيم 15 مل"
             },
             {
-                "name": "تقسيم 70مل ف العبوه الاصليه",
-                "price": 750
+                "price": 750,
+                "name": "تقسيم 70مل ف العبوه الاصليه"
             }
         ],
-        "description": "Anua pore foaming cleanser\r\nغسول اانوا فوم بيزيل الشوائب من البشره وبينضف المسام \r\nوبيحتوي ع حبيبات صغيره بتغمل تقشير خفيف.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/13.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:43 PM UTC+2",
         "name": "Anua pore foaming cleanser\r\nغسول",
-        "order": 7,
+        "createdAt": "January 21, 2026 at 03:24:43 PM UTC+2",
+        "description": "Anua pore foaming cleanser\r\nغسول اانوا فوم بيزيل الشوائب من البشره وبينضف المسام \r\nوبيحتوي ع حبيبات صغيره بتغمل تقشير خفيف.",
+        "category": "skincare",
         "id": "GcWlgqx1w0FGKTdxOcx8"
     },
     {
-        "category": "skincare",
-        "sizes": [
-            {
-                "name": "تقسيم 5 مل",
-                "price": 200
-            },
-            {
-                "name": "تقسيم 10 مل",
-                "price": 360
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1Y1DAk7NX6fjqgp6VaUMItLkyPdnIQ3W6&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1Y1DAk7NX6fjqgp6VaUMItLkyPdnIQ3W6&sz=w1000",
+        "category": "skincare",
         "name": "Vt Cosmetics Reedle Shot 300",
         "createdAt": "2026-02-22T00:08:58.663000+00:00",
         "description": "VT Cosmetics Reedle Shot 300 هو سيروم معزز للعناية بالبشرة بتقنية CICA REEDLE™ الحديثة التي تساعد على توصيل المكونات النشطة بعمق داخل الجلد لتحقيق تحسين واضح في الملمس والإشراقة.",
+        "sizes": [
+            {
+                "price": 200,
+                "name": "تقسيم 5 مل"
+            },
+            {
+                "price": 360,
+                "name": "تقسيم 10 مل"
+            }
+        ],
         "id": "GrxqzcowcgTR1UVcP3Y9"
     },
     {
-        "category": "skincare",
+        "order": 41,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/87.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 280
+                "price": 280,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 520
+                "price": 520,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 15 مل نص العبوه",
-                "price": 820
+                "price": 820,
+                "name": "تقسيم 15 مل نص العبوه"
             }
         ],
-        "description": "Equal berry vitamin illuminating \r\n\r\nتفتيح البشره وتوحيد اللون \r\nيعطي اشراقه ونضاره \r\nيقلل التصبغات و البفع الداكنه \r\nمضاد اكسده قوي ومناسب للبشره الحساسه\r\nمناسب للكوع و الركب و المناطق الغامقه",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/87.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:55 PM UTC+2",
         "name": "Equal berry vitamin illuminating",
-        "order": 41,
+        "createdAt": "January 21, 2026 at 03:24:55 PM UTC+2",
+        "description": "Equal berry vitamin illuminating \r\n\r\nتفتيح البشره وتوحيد اللون \r\nيعطي اشراقه ونضاره \r\nيقلل التصبغات و البفع الداكنه \r\nمضاد اكسده قوي ومناسب للبشره الحساسه\r\nمناسب للكوع و الركب و المناطق الغامقه",
+        "category": "skincare",
         "id": "HPef7I68zJyMF2nV2ZO2"
     },
     {
-        "category": "skincare",
+        "order": 10,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/19.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 280
+                "price": 280,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 560
+                "price": 560,
+                "name": "تقسيم 10 مل"
             }
         ],
-        "description": "Anua Niacin Peach Serum\r\nسيروم نياسناميد للمسام و اثار الحبوب و التصبغات\r\n غني بالخوخ بيهدي من التهاب البشره\r\nمناسب للبشرات الحساسه",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/19.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:44 PM UTC+2",
         "name": "Anua Niacin Peach Serum\r\nسيروم",
-        "order": 10,
+        "createdAt": "January 21, 2026 at 03:24:44 PM UTC+2",
+        "description": "Anua Niacin Peach Serum\r\nسيروم نياسناميد للمسام و اثار الحبوب و التصبغات\r\n غني بالخوخ بيهدي من التهاب البشره\r\nمناسب للبشرات الحساسه",
+        "category": "skincare",
         "id": "HYT49Bngv9vUEiBdZPud"
     },
     {
-        "category": "makeup",
-        "sizes": [
-            {
-                "name": "1ml",
-                "price": 160
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1ThMNI5A3ogZqHY29y8WLJJycBm_mhaEJ&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1ThMNI5A3ogZqHY29y8WLJJycBm_mhaEJ&sz=w1000",
+        "category": "makeup",
         "name": "saie glow",
         "createdAt": "2026-02-22T01:13:08.975000+00:00",
         "description": "هايلايتر سائل يمنح بشرتك إشراقة طبيعية ومتوهجة مع لمسة مضيئة خفيفة تناسب جميع ألوان البشرة.",
+        "sizes": [
+            {
+                "price": 160,
+                "name": "1ml"
+            }
+        ],
         "id": "IudqnAYo3J76LQm9Eb3p"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1vzi4Ng4NZPka094SM5s0vnel-6DpvvJf&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1vzi4Ng4NZPka094SM5s0vnel-6DpvvJf&sz=w1000",
+        "category": "perfumes",
         "name": "Kayali Vanilla candy rock sugar 42",
         "createdAt": "2026-02-08T19:51:03.218000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "JqGAL2hEwChTl5bAppvv"
     },
     {
-        "category": "makeup",
+        "order": 55,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/21.jpg?raw=true",
         "sizes": [
             {
-                "name": "1ml",
-                "price": 380
+                "price": 380,
+                "name": "1ml"
             },
             {
-                "name": "1.5ml",
-                "price": 440
+                "price": 440,
+                "name": "1.5ml"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/21.jpg?raw=true",
+        "name": "huda beauty concealerيخفي الهالات",
         "description": "huda beauty concealer\nيخفي الهالات السوداء والعيوب \nيفتح منطقه تحت العين دون تكتل\nالدرجات المتوفره:\nCOCONUT FLAKES",
         "createdAt": "January 21, 2026 at 03:25:17 PM UTC+2",
-        "name": "huda beauty concealerيخفي الهالات",
-        "order": 55,
+        "category": "makeup",
         "id": "JzDd0xvHgd576UMUxtmT"
     },
     {
-        "category": "makeup",
+        "order": 49,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/9.jpg?raw=true",
         "sizes": [
             {
-                "name": "1ml",
-                "price": 320
+                "price": 320,
+                "name": "1ml"
             },
             {
-                "name": "2ml",
-                "price": 600
+                "price": 600,
+                "name": "2ml"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/9.jpg?raw=true",
+        "name": "Rare Beauty Blush تركيبة",
         "description": "Rare Beauty Blush \nتركيبة خفيفة الوزن تمنحكِ لونًا غنيًا يدوم حتى 12 ساعة\nدون أن تشعري بثقل على البشرة\nيمنح الخدود توهجًا صحيًا يشبه \"القرصة الناعمة\"، مما يضفيف حيوية على الوجه\n\nالدرجات لمتوفره : Happy-HOPE",
         "createdAt": "January 21, 2026 at 03:25:15 PM UTC+2",
-        "name": "Rare Beauty Blush تركيبة",
-        "order": 49,
+        "category": "makeup",
         "id": "KT97szk0pa1goMWlG69i"
     },
     {
-        "category": "skincare",
+        "order": 31,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/63.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 جم"
             },
             {
-                "name": "ترافل سايز",
-                "price": 250
+                "price": 250,
+                "name": "ترافل سايز"
             }
         ],
-        "description": "Dark Spot Correcting Glow Serum\r\n5% نياسيناميد (Niacinamide) مكون فعّال في تفتيح التصبغات، تقليل الالتهابات، وتحسين مرونة البشرة\r\nتفتيح البقع الداكنة وتوحيد لون البشرة\r\nتحسين ملمس البشرة ومنحها إشراقة صحية",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/63.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:51 PM UTC+2",
         "name": "Dark Spot Correcting Glow",
-        "order": 31,
+        "createdAt": "January 21, 2026 at 03:24:51 PM UTC+2",
+        "description": "Dark Spot Correcting Glow Serum\r\n5% نياسيناميد (Niacinamide) مكون فعّال في تفتيح التصبغات، تقليل الالتهابات، وتحسين مرونة البشرة\r\nتفتيح البقع الداكنة وتوحيد لون البشرة\r\nتحسين ملمس البشرة ومنحها إشراقة صحية",
+        "category": "skincare",
         "id": "KaPA4Oad6vAWWnZ2tWJm"
     },
     {
-        "category": "skincare",
+        "order": 35,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/75.jpg?raw=true",
         "sizes": [
             {
-                "name": "15ml",
-                "price": 250
+                "price": 250,
+                "name": "15ml"
             }
         ],
-        "description": "COSRX Salicylic Acid Daily Gentle Cleanser\r\n\r\nغسول\r\n يحتوي على 0.5% حمض الساليسيليك (BHA)، \r\n، وزيت شجرة الشاي، ويُوازن ترطيب البشرة عبر الجلسرين،\r\n مما يجعل منه خيارًا فعّالًا لتنظيف المسام،\r\nقليل البثور والرؤوس السوداء، والتحكُّم في اللمعان الزائدت\r\nمع الحفاظ على نعومة البشرة وإشراقتها",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/75.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:53 PM UTC+2",
         "name": "COSRX Salicylic Acid Daily",
-        "order": 35,
+        "createdAt": "January 21, 2026 at 03:24:53 PM UTC+2",
+        "description": "COSRX Salicylic Acid Daily Gentle Cleanser\r\n\r\nغسول\r\n يحتوي على 0.5% حمض الساليسيليك (BHA)، \r\n، وزيت شجرة الشاي، ويُوازن ترطيب البشرة عبر الجلسرين،\r\n مما يجعل منه خيارًا فعّالًا لتنظيف المسام،\r\nقليل البثور والرؤوس السوداء، والتحكُّم في اللمعان الزائدت\r\nمع الحفاظ على نعومة البشرة وإشراقتها",
+        "category": "skincare",
         "id": "Mw5QzmJvFNTizSRBhMYg"
     },
     {
-        "category": "skincare",
+        "order": 37,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/79.jpg?raw=true",
         "sizes": [
             {
-                "name": "5ml",
-                "price": 110
+                "price": 110,
+                "name": "5ml"
             },
             {
-                "name": "10ml",
-                "price": 200
+                "price": 200,
+                "name": "10ml"
             },
             {
-                "name": "20ml",
-                "price": 350
+                "price": 350,
+                "name": "20ml"
             },
             {
-                "name": "30ML",
-                "price": 480
+                "price": 480,
+                "name": "30ML"
             }
         ],
-        "description": "I’m From Rice Toner\r\n\r\nني بخلاصة الأرز المخمّر،\r\n يستخدم بعد تنظيف البشرة مباشرة لترطيبها،\r\n تفتيح لونها، وتهدئتها\r\nيُعتبر خيارًا مثاليًا للبشرة العادية والمختلطة وحتى الدهنية، \r\nلأنه يمنح إشراقة طبيعية دون أن يسد المسام.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/79.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:54 PM UTC+2",
         "name": "I’m From Rice Toner\r\n\r\nني",
-        "order": 37,
+        "createdAt": "January 21, 2026 at 03:24:54 PM UTC+2",
+        "description": "I’m From Rice Toner\r\n\r\nني بخلاصة الأرز المخمّر،\r\n يستخدم بعد تنظيف البشرة مباشرة لترطيبها،\r\n تفتيح لونها، وتهدئتها\r\nيُعتبر خيارًا مثاليًا للبشرة العادية والمختلطة وحتى الدهنية، \r\nلأنه يمنح إشراقة طبيعية دون أن يسد المسام.",
+        "category": "skincare",
         "id": "QqpPSQmKw2JrLE7WnFuW"
     },
     {
-        "category": "makeup",
+        "order": 56,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/23.jpg?raw=true",
         "sizes": [
             {
-                "name": "1ml",
-                "price": 330
+                "price": 330,
+                "name": "1ml"
             },
             {
-                "name": "1.5ml",
-                "price": 450
+                "price": 450,
+                "name": "1.5ml"
             },
             {
-                "name": "2ml",
-                "price": 580
+                "price": 580,
+                "name": "2ml"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/23.jpg?raw=true",
+        "name": "huda beauty corrector تغطية",
         "description": "huda beauty corrector \nتغطية عالية تخفي الهالات السوداء، البقع والتصبغات من أول طبقة\nمقاوم للتجعيد (ما يدخلش بين الخطوط بسهولة).\nيدوم لفترة طويلة من غير ما يتأثر بالحرارة أو العرق.\npeach الدرجه المتوفره:",
         "createdAt": "January 21, 2026 at 03:25:17 PM UTC+2",
-        "name": "huda beauty corrector تغطية",
-        "order": 56,
+        "category": "makeup",
         "id": "R8ZZfkmNkiIMy0MCXMxt"
     },
     {
-        "category": "skincare",
-        "sizes": [
-            {
-                "name": "full size-30ml",
-                "price": 1300
-            },
-            {
-                "name": "5ml تقسيم",
-                "price": 280
-            },
-            {
-                "name": "10ml تقسيم",
-                "price": 520
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1yrBcPhSP4w8NsWxQpobeQuSyNk7qLxYi&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1yrBcPhSP4w8NsWxQpobeQuSyNk7qLxYi&sz=w1000",
+        "category": "skincare",
         "name": "Arencia Vitamin C Booster Shot Serum with Glutathione",
         "createdAt": "2026-02-22T00:01:14.496000+00:00",
         "description": "سيروم معزز بفيتامين سي مع الجلوتاثيون والنياسيناميد\nتفتيح وتوحيد لون البشرة\n\nتقليل التصبغات وآثار الحبوب\n\nحماية قوية مضادة للأكسدة\n\nتعزيز نضارة البشرة وتقليل الخطوط الدقيقة",
+        "sizes": [
+            {
+                "price": 1300,
+                "name": "full size-30ml"
+            },
+            {
+                "price": 280,
+                "name": "5ml تقسيم"
+            },
+            {
+                "price": 520,
+                "name": "10ml تقسيم"
+            }
+        ],
         "id": "R8jRtvNyNE2C06IYPpw4"
     },
     {
-        "category": "cosmetics",
-        "sizes": [
-            {
-                "name": "بين 0 ملم - 3 ملم",
-                "price": 300
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1D0bK8jq2Bm2J-LQIC7eMUBT3IeWL_OH1&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1D0bK8jq2Bm2J-LQIC7eMUBT3IeWL_OH1&sz=w1000",
+        "category": "cosmetics",
         "name": "derma stamp",
         "createdAt": "2026-02-21T22:39:25.109000+00:00",
         "description": "قلم ديرما ستامب بإبر دقيقة للعناية بالبشرة قابل لإعادة الاستخدام مع غطاء للإبر مناسب لنمو شعر الوجه والجسم واللحية، قلم قابل للتعديل من 0 إلى 3 ملم، مزود بـ 140 إبرة تيتانيوم",
+        "sizes": [
+            {
+                "price": 300,
+                "name": "بين 0 ملم - 3 ملم"
+            }
+        ],
         "id": "RGqwS6DXD0xnC3ktCbDB"
     },
     {
-        "category": "skincare",
+        "order": 2,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/3.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 110
+                "price": 110,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 15 مل",
-                "price": 280
+                "price": 280,
+                "name": "تقسيم 15 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 350
+                "price": 350,
+                "name": "تقسيم 30 مل"
             },
             {
-                "name": "تقسيم 100 مل ف العبوه الاصليه",
-                "price": 800
+                "price": 800,
+                "name": "تقسيم 100 مل ف العبوه الاصليه"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/3.jpg?raw=true",
+        "name": "CENTELLA light cleansing oil",
         "description": "CENTELLA light cleansing oil \nبيزيل الميكب و الصن بلوك و الرؤوس السودا و  ومناسب للبشره الحساسه\nينظفف البشره بعمق دون تجفيفها اوتهييجها",
         "createdAt": "January 21, 2026 at 03:24:41 PM UTC+2",
-        "name": "CENTELLA light cleansing oil",
-        "order": 2,
+        "category": "skincare",
         "id": "RKf9UqqCnpmIWUApxCQZ"
     },
     {
-        "category": "skincare",
-        "sizes": [
-            {
-                "name": "تقسيم 5 مل",
-                "price": 120
-            },
-            {
-                "name": "تقسيم 10 مل",
-                "price": 230
-            },
-            {
-                "name": "تقسيم 20 مل",
-                "price": 450
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1IAjYwuwR8M1Z4qBs2BZPg1TRYZ1Rd4VT&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1IAjYwuwR8M1Z4qBs2BZPg1TRYZ1Rd4VT&sz=w1000",
+        "category": "skincare",
         "name": "Clinique Basic 3 Moisturizing Lotion +",
         "createdAt": "2026-02-22T00:05:53.743000+00:00",
         "description": "مرطب يومي خفيف من Clinique يمنح بشرتك ترطيبًا متوازنًا ونعومة تدوم طوال اليوم، بتركيبة لطيفة مناسبة حتى للبشرة الحساسة.\n\nالمميزات:\n\nترطيب عميق يدعم حاجز البشرة الطبيعي\n\n قوام خفيف سريع الامتصاص بدون ملمس دهني\n\n لطيف وخالٍ من العطور\n\n يترك البشرة ناعمة ومهيأة للمكياج\n\nمناسب لـ: جميع أنواع البشرة، خاصة العادية إلى الجافة.",
+        "sizes": [
+            {
+                "price": 120,
+                "name": "تقسيم 5 مل"
+            },
+            {
+                "price": 230,
+                "name": "تقسيم 10 مل"
+            },
+            {
+                "price": 450,
+                "name": "تقسيم 20 مل"
+            }
+        ],
         "id": "RgCtKEYj0U9eJeRxNaJV"
     },
     {
-        "category": "skincare",
+        "order": 20,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/39.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 220
+                "price": 220,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 320
+                "price": 320,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "Beauty of joseon ,Aqua fresh rice sunscreen \r\nغني بالرز و البروبايوتك الي بيشتغل ع تهدئه الاحمرار وترطيب البشره\r\n وبيقوي حاجز البشره و بيساعد ف تفتيح البشره \r\nالاصدار الجديد قوتمه مائي اكتر واخف شويه \r\n مناسب للبشرات المختلطه والدهنيه ومش بيسيب اي لمعه",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/39.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
         "name": "Beauty of joseon ,Aqua",
-        "order": 20,
+        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
+        "description": "Beauty of joseon ,Aqua fresh rice sunscreen \r\nغني بالرز و البروبايوتك الي بيشتغل ع تهدئه الاحمرار وترطيب البشره\r\n وبيقوي حاجز البشره و بيساعد ف تفتيح البشره \r\nالاصدار الجديد قوتمه مائي اكتر واخف شويه \r\n مناسب للبشرات المختلطه والدهنيه ومش بيسيب اي لمعه",
+        "category": "skincare",
         "id": "RzQC0WNUjtgQvCdhxbtE"
     },
     {
-        "category": "makeup",
+        "order": 52,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/15.jpg?raw=true",
         "sizes": [
             {
-                "name": "5ml",
-                "price": 130
+                "price": 130,
+                "name": "5ml"
             },
             {
-                "name": "10ml",
-                "price": 250
+                "price": 250,
+                "name": "10ml"
             }
         ],
-        "description": "URBAN DECAY SETTING SPRAY \r\n\r\nثبّتي مكياجك لوقت أطول مع البخاخ الأكثر شهرة من Urban Decay!\r\nتركيبة خفيفة، غير لزجة، تمنحك ثباتًا يدوم حتى 16 ساعة، دون أن يبهت المكياج \r\nأو يسيل، حتى في الأجواء الحارة أو الرطبة\r\nيدوم حتى 16 ساعة.\r\nيمنع سيلان أو تكتل المكياج.\r\nمناسب لجميع أنواع البشرة.\r\nلا يسبب انسداد المسام أو الجفاف.\r\nبخاخ ناعم وبارد يمنح شعورًا منعشًا.\r\nخالٍ من الزيوت والبارابين",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/15.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:25:16 PM UTC+2",
         "name": "URBAN DECAY SETTING SPRAY",
-        "order": 52,
+        "createdAt": "January 21, 2026 at 03:25:16 PM UTC+2",
+        "description": "URBAN DECAY SETTING SPRAY \r\n\r\nثبّتي مكياجك لوقت أطول مع البخاخ الأكثر شهرة من Urban Decay!\r\nتركيبة خفيفة، غير لزجة، تمنحك ثباتًا يدوم حتى 16 ساعة، دون أن يبهت المكياج \r\nأو يسيل، حتى في الأجواء الحارة أو الرطبة\r\nيدوم حتى 16 ساعة.\r\nيمنع سيلان أو تكتل المكياج.\r\nمناسب لجميع أنواع البشرة.\r\nلا يسبب انسداد المسام أو الجفاف.\r\nبخاخ ناعم وبارد يمنح شعورًا منعشًا.\r\nخالٍ من الزيوت والبارابين",
+        "category": "makeup",
         "id": "TlEKigaAaB19zfW14ozs"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1sFtS0OyR7yozBhercCXRswQlvu_3Z3eg&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1sFtS0OyR7yozBhercCXRswQlvu_3Z3eg&sz=w1000",
+        "category": "perfumes",
         "name": "burberry her",
         "createdAt": "2026-02-08T19:27:51.303000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "U7nXWk7rlxHkLXxUVQZ1"
     },
     {
-        "category": "makeup",
+        "order": 59,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/29.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 20 جم (في عبوه باودر+مرايه)",
-                "price": 280
+                "price": 280,
+                "name": "تقسيم 20 جم (في عبوه باودر+مرايه)"
             }
         ],
-        "description": "بودرة Rose Berry\r\n\r\n تمتص الزيوت الزائدة وتترك البشرة ناعمة وحريرية.\r\n تمنح البشرة مظهرًا غير لامع ومنعش طوال اليوم.\r\nثبات العطر: تعزز من دوام رائحة الجسم لفترة أطول.\r\nحماية من الاحتكاك: تقلل التهيج في المناطق الحساسة \r\nمثل الرقبة وتحت الإبط والفخذين.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/29.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:25:18 PM UTC+2",
         "name": "بودرة Rose Berry\r\n\r\n تمتص",
-        "order": 59,
+        "createdAt": "January 21, 2026 at 03:25:18 PM UTC+2",
+        "description": "بودرة Rose Berry\r\n\r\n تمتص الزيوت الزائدة وتترك البشرة ناعمة وحريرية.\r\n تمنح البشرة مظهرًا غير لامع ومنعش طوال اليوم.\r\nثبات العطر: تعزز من دوام رائحة الجسم لفترة أطول.\r\nحماية من الاحتكاك: تقلل التهيج في المناطق الحساسة \r\nمثل الرقبة وتحت الإبط والفخذين.",
+        "category": "makeup",
         "id": "UBUCVS3cMb0G1qmV2yqH"
     },
     {
-        "category": "makeup",
+        "order": 45,
+        "image": "https://drive.google.com/thumbnail?id=15g9ZBUSurzmFlGcfpC9_BFflaNPXm13g&sz=w1000",
         "sizes": [
             {
-                "name": "2gm",
-                "price": 280
+                "price": 280,
+                "name": "2gm"
             },
             {
-                "name": "5GM",
-                "price": 740
+                "price": 740,
+                "name": "5GM"
             }
         ],
-        "image": "https://drive.google.com/thumbnail?id=15g9ZBUSurzmFlGcfpC9_BFflaNPXm13g&sz=w1000",
+        "name": "HUDA BEAUTY Easy Bake",
         "description": "HUDA BEAUTY Easy Bake Loose \nBaking & Setting Powder\n\nتساعد في تثبيت المكياج لفترة طويلة ومنع التكتل أو التلطخ.\nتمتص الزيوت الزائدة وتقلل من لمعان البشرة، مما يجعلها مثالية للبشرة الدهنية والمختلطة.\nتوفرة بإصدار خالٍ من العطور، مما يجعلها مناسبة للبشرة الحساسة\n تُستخدم لتثبيت المكياج، تفتيح مناطق معينة من الوجه، وتحديد الملامح.\n\n :الدرجات المتوفره\npound Cake>---(جوكر لمعظم البشرات)\nCherry blossum>----(بيبي بينك للتنوير والبشره الفاتحه)\nCUPCAKE>-----(للقمحي الفاتح)",
         "createdAt": "January 21, 2026 at 03:25:14 PM UTC+2",
-        "name": "HUDA BEAUTY Easy Bake",
-        "order": 45,
+        "category": "makeup",
         "id": "VDTpICrO1ABTWHUPblQg"
     },
     {
-        "category": "skincare",
+        "order": 29,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/59.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 جم",
-                "price": 250
+                "price": 250,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "Snow white milky lotion \r\nتفتيح وتوحيد لون الجسم \r\nتيعطي مظهر ناعم وفاتح بشكل فوري\r\nحسن من مظهر البقع والتصبغات في مناطق زي الركب، الأكواع، وتحت الإبط",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/59.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:50 PM UTC+2",
         "name": "Snow white milky lotion",
-        "order": 29,
+        "createdAt": "January 21, 2026 at 03:24:50 PM UTC+2",
+        "description": "Snow white milky lotion \r\nتفتيح وتوحيد لون الجسم \r\nتيعطي مظهر ناعم وفاتح بشكل فوري\r\nحسن من مظهر البقع والتصبغات في مناطق زي الركب، الأكواع، وتحت الإبط",
+        "category": "skincare",
         "id": "VPIbbiEzxwkeGD8fPfFu"
     },
     {
-        "category": "skincare",
+        "order": 43,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/91.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 15 مل",
-                "price": 290
+                "price": 290,
+                "name": "تقسيم 15 مل"
             }
         ],
-        "description": "centella poremizing deep cleanser \r\n \r\nغسول التنضيف العميق\r\nينظف البشره و المسام بعمق \r\nيقلل افراز الدهون و المسام\r\nيزيل الاوساخ و الؤوس السوداء \r\nمناسب للبشرات المختلططه و الدهنيه",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/91.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:56 PM UTC+2",
         "name": "centella poremizing deep cleanser",
-        "order": 43,
+        "createdAt": "January 21, 2026 at 03:24:56 PM UTC+2",
+        "description": "centella poremizing deep cleanser \r\n \r\nغسول التنضيف العميق\r\nينظف البشره و المسام بعمق \r\nيقلل افراز الدهون و المسام\r\nيزيل الاوساخ و الؤوس السوداء \r\nمناسب للبشرات المختلططه و الدهنيه",
+        "category": "skincare",
         "id": "VVqUrWMEXT51quyY2OUt"
     },
     {
-        "category": "skincare",
+        "order": 25,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/51.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 110
+                "price": 110,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 220
+                "price": 220,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 510
+                "price": 510,
+                "name": "تقسيم 30 مل"
             }
         ],
-        "description": "cosrx snail mucin 96% power essence \r\nترطيب عميق للبشرة\r\nتحسين مرونة البشرة\r\nترميم حاجز البشره \r\nيعطيكي نضاره و جلو",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/51.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:49 PM UTC+2",
         "name": "cosrx snail mucin 96%",
-        "order": 25,
+        "createdAt": "January 21, 2026 at 03:24:49 PM UTC+2",
+        "description": "cosrx snail mucin 96% power essence \r\nترطيب عميق للبشرة\r\nتحسين مرونة البشرة\r\nترميم حاجز البشره \r\nيعطيكي نضاره و جلو",
+        "category": "skincare",
         "id": "WfIhHF8F6Xjnz8BJs5RO"
     },
     {
-        "category": "skincare",
+        "order": 32,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/69.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 30 جم",
-                "price": 310
+                "price": 310,
+                "name": "تقسيم 30 جم"
             }
         ],
-        "description": "Fino hair mask \r\nماسك الشعر من فينو يعمل ع ترطيب الشعر و اصلاح التلف و حمايه الشعر\r\n و تنعيمه ومعالجه التقصف و هيشان يرمم الشعر التالف",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/69.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:52 PM UTC+2",
         "name": "Fino hair mask \r\nماسك",
-        "order": 32,
+        "createdAt": "January 21, 2026 at 03:24:52 PM UTC+2",
+        "description": "Fino hair mask \r\nماسك الشعر من فينو يعمل ع ترطيب الشعر و اصلاح التلف و حمايه الشعر\r\n و تنعيمه ومعالجه التقصف و هيشان يرمم الشعر التالف",
+        "category": "skincare",
         "id": "XAq50xICpC7KX9Hg5w9f"
     },
     {
-        "category": "skincare",
+        "order": 27,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/55.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 15 مل",
-                "price": 275
+                "price": 275,
+                "name": "تقسيم 15 مل"
             }
         ],
-        "description": "PanOxyl 4% Acne wash \r\nيقتل البكتيريا المسببة لحب الشباب.\r\nينظف المسام بعمق.\r\nيقلل من الإفرازات الدهنية\r\nيمنع ظهور الحبوب الجديدة",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/55.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:50 PM UTC+2",
         "name": "PanOxyl 4% Acne wash",
-        "order": 27,
+        "createdAt": "January 21, 2026 at 03:24:50 PM UTC+2",
+        "description": "PanOxyl 4% Acne wash \r\nيقتل البكتيريا المسببة لحب الشباب.\r\nينظف المسام بعمق.\r\nيقلل من الإفرازات الدهنية\r\nيمنع ظهور الحبوب الجديدة",
+        "category": "skincare",
         "id": "Xhn4FkSVGw1ZETyuVaRn"
     },
     {
-        "category": "skincare",
+        "order": 9,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/17.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 600
+                "price": 600,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 15 مل ف العبوه نفسها",
-                "price": 800
+                "price": 800,
+                "name": "تقسيم 15 مل ف العبوه نفسها"
             }
         ],
-        "description": "Anua Niacinamide 10% + TXA 4% Serum\r\nيخفي اثار الحبوب و التصبغات\r\nيققل من المسام و الحبوب \r\nبيعالج البقع الداكنه و يوحد لون البشره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/17.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:44 PM UTC+2",
         "name": "Anua Niacinamide 10% +",
-        "order": 9,
+        "createdAt": "January 21, 2026 at 03:24:44 PM UTC+2",
+        "description": "Anua Niacinamide 10% + TXA 4% Serum\r\nيخفي اثار الحبوب و التصبغات\r\nيققل من المسام و الحبوب \r\nبيعالج البقع الداكنه و يوحد لون البشره",
+        "category": "skincare",
         "id": "ZIun4nLb9vRfl1bjoCaC"
     },
     {
-        "category": "skincare",
+        "order": 34,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/73.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 مل",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 مل"
             }
         ],
-        "description": "Mielle rosemarry hair oil \r\nزيت بالنعناع و الروز ماري و البيوتين يعمل ع تنشيط فروه الشعر و منع  التساقط ونمو الشعر",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/73.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:52 PM UTC+2",
         "name": "Mielle rosemarry hair oil",
-        "order": 34,
+        "createdAt": "January 21, 2026 at 03:24:52 PM UTC+2",
+        "description": "Mielle rosemarry hair oil \r\nزيت بالنعناع و الروز ماري و البيوتين يعمل ع تنشيط فروه الشعر و منع  التساقط ونمو الشعر",
+        "category": "skincare",
         "id": "bDqGEM9Z3OpcxyodsbMM"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1wJaB14PvPcMJtDfqHrhXAXBqwPmY7Ojv&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1wJaB14PvPcMJtDfqHrhXAXBqwPmY7Ojv&sz=w1000",
+        "category": "perfumes",
         "name": "la belle",
         "createdAt": "2026-02-08T19:43:43.540000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "c8V2MgXeSBYvMvfu8YAz"
     },
     {
-        "category": "skincare",
+        "order": 17,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/33.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 3 جم",
-                "price": 210
+                "price": 210,
+                "name": "تقسيم 3 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 510
+                "price": 510,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "Beauty of joseon Revive Eye serum\r\n\r\nم العين بالريتنال و الجيسينج بيسرع  من تجديد البشره في محيط العين و يقلل من الخطوط و الهالات\r\nمناسب للمبتدئين",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/33.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:46 PM UTC+2",
         "name": "Beauty of joseon Revive",
-        "order": 17,
+        "createdAt": "January 21, 2026 at 03:24:46 PM UTC+2",
+        "description": "Beauty of joseon Revive Eye serum\r\n\r\nم العين بالريتنال و الجيسينج بيسرع  من تجديد البشره في محيط العين و يقلل من الخطوط و الهالات\r\nمناسب للمبتدئين",
+        "category": "skincare",
         "id": "chpAyLHoBLForwER6Xmk"
     },
     {
-        "category": "skincare",
+        "order": 36,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/77.jpg?raw=true",
         "sizes": [
             {
-                "name": "3gm",
-                "price": 220
+                "price": 220,
+                "name": "3gm"
             },
             {
-                "name": "5gm",
-                "price": 280
+                "price": 280,
+                "name": "5gm"
             },
             {
-                "name": "10gm",
-                "price": 650
+                "price": 650,
+                "name": "10gm"
             }
         ],
-        "description": "ksecret seoul 1988 eye cream \r\n\r\nيحتوي على ريتينال ليبوزوم 4% لتقليل التجاعيد والخطوط الدقيقة\r\n\r\nغني بـ الفاصوليا المخمرة والبيبتيدات التي \r\nتعزز إنتاج الكولاجين وتزيد مرونة البشرة.\r\n\r\nيساعد على تفتيح الهالات السوداء\r\n وتوحيد لون محيط العين.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/77.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:53 PM UTC+2",
         "name": "ksecret seoul 1988 eye",
-        "order": 36,
+        "createdAt": "January 21, 2026 at 03:24:53 PM UTC+2",
+        "description": "ksecret seoul 1988 eye cream \r\n\r\nيحتوي على ريتينال ليبوزوم 4% لتقليل التجاعيد والخطوط الدقيقة\r\n\r\nغني بـ الفاصوليا المخمرة والبيبتيدات التي \r\nتعزز إنتاج الكولاجين وتزيد مرونة البشرة.\r\n\r\nيساعد على تفتيح الهالات السوداء\r\n وتوحيد لون محيط العين.",
+        "category": "skincare",
         "id": "dkio28VmuNttK7G0I3wI"
     },
     {
-        "category": "skincare",
+        "order": 5,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/9.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 مل",
-                "price": 150
+                "price": 150,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 15 مل",
-                "price": 250
+                "price": 250,
+                "name": "تقسيم 15 مل"
             },
             {
-                "name": "تقسيم 60مل ف العبوه الاصليه",
-                "price": 700
+                "price": 700,
+                "name": "تقسيم 60مل ف العبوه الاصليه"
             },
             {
-                "name": "full size",
-                "price": 1200
+                "price": 1200,
+                "name": "full size"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/9.jpg?raw=true",
+        "name": "centella foam cleanser",
         "description": "centella foam cleanser\nغاسول رغوي يحتوي ع 85% من مستخلص السنتيلا اسيتكا يساعد ع ازاله     \n الشوائب والدهون والرواسب\nبدون ما يجفف البشره  \nيناسب جميع انواع البشره حتي الحساسه جدا",
         "createdAt": "January 21, 2026 at 03:24:42 PM UTC+2",
-        "name": "centella foam cleanser",
-        "order": 5,
+        "category": "skincare",
         "id": "eE64KhVvKlLo2aqRyKH3"
     },
     {
-        "category": "makeup",
+        "order": 51,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/13.jpg?raw=true",
         "sizes": [
             {
-                "name": "5gm(في عبوه مدوره)",
-                "price": 70
+                "price": 70,
+                "name": "5gm(في عبوه مدوره)"
             },
             {
-                "name": "10gm (في عبوه ماسكرا)",
-                "price": 150
+                "price": 150,
+                "name": "10gm (في عبوه ماسكرا)"
             },
             {
-                "name": "10gm (في عبوه مدوره)",
-                "price": 110
+                "price": 110,
+                "name": "10gm (في عبوه مدوره)"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/13.jpg?raw=true",
+        "name": "got2b Glued water resistant",
         "description": "got2b Glued water resistant spiking gel\n\nاحصلي على تثبيت خارق وثبات يدوم حتى غسيل الشعر\nثبات فائق : مصمم ليقاوم الرياح والرطوبة ويثبت حتى 72 ساعة\nمقاوم للماء والتعرّق\nتحتوي على 88% مكونات طبيعية، خالية من السليكون\nنستخدمه للحواجب والشعر وتثبيت البواريك",
         "createdAt": "January 21, 2026 at 03:25:16 PM UTC+2",
-        "name": "got2b Glued water resistant",
-        "order": 51,
+        "category": "makeup",
         "id": "fKAndunDO4Iwe1LgQgSO"
     },
     {
-        "category": "makeup",
+        "order": 0,
         "sizes": [
             {
-                "name": "2gm",
-                "price": 220
+                "price": 220,
+                "name": "2gm"
             },
             {
-                "name": "5gm",
-                "price": 530
+                "price": 530,
+                "name": "5gm"
             }
         ],
         "description": "Easy Blur Silicone-Free Smoothing & Pore-Minimizing Primer\nمثالي للبشرة الحساسة والمعرضة للانسداد، حيث لا يحتوي على السيليكون\n الذي قد يسبب تهيجًا لبعض أنواع البشرة.\n يعمل على تقليل مظهر المسام الواسعة، مما يمنح البشرة مظهرًا ناعمًا\n  تم اختباره على مجموعة متنوعة من أنواع وألوان البشرة،\n وأثبت فعاليته في تحسين مظهر المكياج.",
-        "order": 0,
-        "createdAt": "January 21, 2026 at 03:25:14 PM UTC+2",
         "name": "Easy Blur Silicone-Free Smoothing",
         "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/3.jpg?raw=true",
+        "createdAt": "January 21, 2026 at 03:25:14 PM UTC+2",
+        "category": "makeup",
         "id": "g2hX4gDe7D5U3opmvPoO"
     },
     {
-        "category": "skincare",
+        "order": 18,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/35.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 245
+                "price": 245,
+                "name": "تقسيم 5 مل"
             }
         ],
-        "description": "Beauty of joseon Glow Deep Serum: Rice + Alpha-Arbutin\r\nيساعد في توحيد لون البشره و تقليل ظهور البقه الداكنهو التصيغات و بيدي\r\n جلو و نضاره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/35.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
         "name": "Beauty of joseon Glow",
-        "order": 18,
+        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
+        "description": "Beauty of joseon Glow Deep Serum: Rice + Alpha-Arbutin\r\nيساعد في توحيد لون البشره و تقليل ظهور البقه الداكنهو التصيغات و بيدي\r\n جلو و نضاره",
+        "category": "skincare",
         "id": "gOYFB6oKp4EQV3la4fF5"
     },
     {
-        "category": "skincare",
-        "sizes": [
-            {
-                "name": "تقسيم 10 مل",
-                "price": 200
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1rn9sou6NneNynraoRXzKAFu4ruzCAKrx&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1rn9sou6NneNynraoRXzKAFu4ruzCAKrx&sz=w1000",
+        "category": "skincare",
         "name": "medicube Red Body Peeling Shot, Strawberry Skin Body Spray Cleanser, AHA + BHA + Succinic Acid, Exfoliating,",
         "createdAt": "2026-02-22T00:16:39.601000+00:00",
         "description": "رذاذ منظف مقشّر للجسم بتركيبة قوية تجمع AHA + BHA + PHA + LHA مع Succinic Acid لتقشير عميق وتجديد البشرة بسهولة في المنزل.\n🧴 تقشير فعال للجسم: الأحماض (AHA و BHA) تزيل خلايا الجلد الميتة وتفتح المسام وتنعّم الملمس.\n\n🍓 علاج “Skin Strawberry” والبقع الخشنة: يساعد على تنعيم المناطق الخشنة مثل الذراعين، الظهر، الساقين وحتى “البشرة الفراولة” (نقاط سوداء صغيرة).\n\n🌬️ تفتيح وتوحيد اللون: النياسيناميد يساعد على توحيد لون البشرة وتحسين إشراقتها.",
+        "sizes": [
+            {
+                "price": 200,
+                "name": "تقسيم 10 مل"
+            }
+        ],
         "id": "hg7JfIiR2J1XIlOKIr2B"
     },
     {
-        "category": "skincare",
+        "order": 22,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/43.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 مل",
-                "price": 140
+                "price": 140,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 330
+                "price": 330,
+                "name": "تقسيم 30 مل"
             }
         ],
-        "description": "the ordinary glycolic acid 7% exfoliating  toner\r\nيُستخدم لتقشير البشرة بلطف، مما يُحسن من إشراقتها وملمسها.​\r\nيُساعد في تقليل حجم المسام الظاهرة.​\r\nيُقلل من التصبغات والبقع الداكنة\r\nيستخدم للكوع و الركب و الاندر ارم",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/43.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:48 PM UTC+2",
         "name": "the ordinary glycolic acid",
-        "order": 22,
+        "createdAt": "January 21, 2026 at 03:24:48 PM UTC+2",
+        "description": "the ordinary glycolic acid 7% exfoliating  toner\r\nيُستخدم لتقشير البشرة بلطف، مما يُحسن من إشراقتها وملمسها.​\r\nيُساعد في تقليل حجم المسام الظاهرة.​\r\nيُقلل من التصبغات والبقع الداكنة\r\nيستخدم للكوع و الركب و الاندر ارم",
+        "category": "skincare",
         "id": "hvCyxmjPsdFSDCxghpyu"
     },
     {
-        "category": "skincare",
+        "order": 1,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/1.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 3 جم",
-                "price": 120
+                "price": 120,
+                "name": "تقسيم 3 جم"
             },
             {
-                "name": "تقسيم 5 جم",
-                "price": 240
+                "price": 240,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 375
+                "price": 375,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/1.jpg?raw=true",
+        "name": "Dr.Althea-345 Relief Cream",
         "description": "Dr.Althea-345 Relief Cream\nيقوي ويرمم حاجز البشره و ينظم افرازات الزيوت\nتفتيح البقع الداكنه و توحيد لون البشره\nيرطب البشره بعمق و يخفف تهيج البشره",
         "createdAt": "January 21, 2026 at 03:24:41 PM UTC+2",
-        "name": "Dr.Althea-345 Relief Cream",
-        "order": 1,
+        "category": "skincare",
         "id": "iHqrwNYaiOsN3A07yKoi"
     },
     {
-        "category": "cosmetics",
-        "sizes": [
-            {
-                "name": "باكت(2شفره)",
-                "price": 300
-            },
-            {
-                "name": "شفره فقط",
-                "price": 150
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1Ly9SkpofpiTw_mjCJuqhg9Dch9V3bYE_&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1Ly9SkpofpiTw_mjCJuqhg9Dch9V3bYE_&sz=w1000",
+        "category": "cosmetics",
         "name": "شفرات فلامنجو",
         "createdAt": "2026-02-21T22:43:14.276000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 300,
+                "name": "باكت(2شفره)"
+            },
+            {
+                "price": 150,
+                "name": "شفره فقط"
+            }
+        ],
         "id": "iPMUFFbYLGy2WOa2i1d9"
     },
     {
+        "order": 0,
         "category": "skincare",
+        "createdAt": "2026-02-22T00:27:43.203000+00:00",
+        "name": "EQQUALBERRY NAD+ Peptide Boosting Smoothie Serum",
+        "image": "https://drive.google.com/thumbnail?id=1i1o1MNU7AVhNdycVfhiWUfMNjFELe7Ug&sz=w1000",
+        "description": "سيروم مجدد للبشرة غني بـ NAD+ والببتيدات ومضادات الأكسدة، مصمم لمنح البشرة شدًّا طبيعيًا، إشراقة صحية ومظهرًا أكثر شبابًا.\n\nالفوائد الأساسية:\n\n💎 تعزيز مرونة وشد البشرة بفضل الببتيدات الداعمة للكولاجين\n\n✨ إشراقة وتوحيد لون البشرة بفضل مضادات الأكسدة\n\n🔬 تجديد وحيوية البشرة بتركيبة تحتوي على NAD+ لدعم مظهر البشرة المتعبة",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 280
+                "price": 280,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 520
+                "price": 520,
+                "name": "تقسيم 10 جم"
             },
             {
-                "name": "full size-30ml",
-                "price": 1400
+                "price": 1400,
+                "name": "full size-30ml"
             }
         ],
-        "order": 0,
-        "image": "https://drive.google.com/thumbnail?id=1i1o1MNU7AVhNdycVfhiWUfMNjFELe7Ug&sz=w1000",
-        "name": "EQQUALBERRY NAD+ Peptide Boosting Smoothie Serum",
-        "createdAt": "2026-02-22T00:27:43.203000+00:00",
-        "description": "سيروم مجدد للبشرة غني بـ NAD+ والببتيدات ومضادات الأكسدة، مصمم لمنح البشرة شدًّا طبيعيًا، إشراقة صحية ومظهرًا أكثر شبابًا.\n\nالفوائد الأساسية:\n\n💎 تعزيز مرونة وشد البشرة بفضل الببتيدات الداعمة للكولاجين\n\n✨ إشراقة وتوحيد لون البشرة بفضل مضادات الأكسدة\n\n🔬 تجديد وحيوية البشرة بتركيبة تحتوي على NAD+ لدعم مظهر البشرة المتعبة",
         "id": "jErExUrmHqXw9D4Tf0Fj"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "Set of 6 perfumes – 10 ml each",
-                "price": 1800
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1QZb3hsJCDfJqgvcASwQeVHQmc95_SeAc&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1QZb3hsJCDfJqgvcASwQeVHQmc95_SeAc&sz=w1000",
+        "category": "perfumes",
         "name": "IBRAQ Diamond collection perfumes– مجموعة عطور إبراق دايموند",
         "createdAt": "2026-02-08T16:42:54.450000+00:00",
         "description": "مجموعة إبراق دايموند هي كوليكشن فاخرة تضم 6 عطور مختلفة بحجم 10 مل لكل عطر، بتقدّم لك تنوع مميز بين الروائح الشرقية، الزهرية، والخشبية لتناسب كل الأذواق والمناسبات.\nالمجموعة مثالية للتجربة أو السفر، وتديكي حرية اختيار العطر المناسب لكل وقت بدون ما تلتزمي بزجاجة واحدة كبيرة.",
+        "sizes": [
+            {
+                "price": 1800,
+                "name": "Set of 6 perfumes – 10 ml each"
+            }
+        ],
         "id": "jGImZEywntvfbXDPdFEM"
     },
     {
-        "category": "skincare",
+        "order": 23,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/45.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 3 جم",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 3 جم"
             },
             {
-                "name": "تقسيم 5 جم",
-                "price": 250
+                "price": 250,
+                "name": "تقسيم 5 جم"
             }
         ],
-        "description": "Mary& may eye cream \r\nيحتوي ع اقوي مكونات للتفتيح الجلوتاثيون\r\n و النياسيناميد و الترانزميك اسيد  \r\nبيشتغل ع تفتيح الهالات السوداء و التصبغات \r\nترطيب عميق ومنظر صحي \r\nينفع نستخدمه ع البشره كلها",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/45.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:48 PM UTC+2",
         "name": "Mary& may eye cream",
-        "order": 23,
+        "createdAt": "January 21, 2026 at 03:24:48 PM UTC+2",
+        "description": "Mary& may eye cream \r\nيحتوي ع اقوي مكونات للتفتيح الجلوتاثيون\r\n و النياسيناميد و الترانزميك اسيد  \r\nبيشتغل ع تفتيح الهالات السوداء و التصبغات \r\nترطيب عميق ومنظر صحي \r\nينفع نستخدمه ع البشره كلها",
+        "category": "skincare",
         "id": "jLUntfak3wN29A56NEYn"
     },
     {
-        "category": "cosmetics",
-        "sizes": [
-            {
-                "name": "‎ 7 x 6 x 5 سم",
-                "price": 150
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=12DPD2-rc7kXNjs_puwFK9usr-1_SMiK2&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=12DPD2-rc7kXNjs_puwFK9usr-1_SMiK2&sz=w1000",
+        "category": "cosmetics",
         "name": "satain bonnet for hair",
         "createdAt": "2026-02-21T23:20:14.809000+00:00",
         "description": "بونيه ساتان للنوم - بونيه شعر مبطن بالساتان الحريري \n(قبعة نوم مريحة للنساء لحماية الشعر الطبيعي أو الضفائر او التصفيفات المجعدة او المستقيمة (لون عشوائي",
+        "sizes": [
+            {
+                "price": 150,
+                "name": "‎ 7 x 6 x 5 سم"
+            }
+        ],
         "id": "kZtTP1GW1UBduhmZa2ex"
     },
     {
-        "category": "skincare",
+        "order": 26,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/53.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 130
+                "price": 130,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 230
+                "price": 230,
+                "name": "تقسيم 10 جم"
             }
         ],
-        "description": "cosrx advansrd snail moistrizer \r\nكريم الحلزون بتركيبه جل غنيه تمتثه البشره ع الفور يرطب البشره \r\nو يقلل من ظهور الخطوط و الجفاف بيقوي حاجز البشره وبيدي اشراقه ولمعه للبشره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/53.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:49 PM UTC+2",
         "name": "cosrx advansrd snail moistrizer",
-        "order": 26,
+        "createdAt": "January 21, 2026 at 03:24:49 PM UTC+2",
+        "description": "cosrx advansrd snail moistrizer \r\nكريم الحلزون بتركيبه جل غنيه تمتثه البشره ع الفور يرطب البشره \r\nو يقلل من ظهور الخطوط و الجفاف بيقوي حاجز البشره وبيدي اشراقه ولمعه للبشره",
+        "category": "skincare",
         "id": "matmZXFq6egdJ6s1j9W9"
     },
     {
-        "category": "skincare",
+        "order": 4,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/7.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 جم"
             },
             {
-                "name": "full size",
-                "price": 1100
+                "price": 1100,
+                "name": "full size"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/7.jpg?raw=true",
+        "name": "centella sunscreen",
         "description": "centella sunscreen \nواقي شمس مخصص للبشره الدهنيه المعرضه للحبوب بتركيبه خفيفه جدا \nع البشره بتمتصها بسرع\nه مش بيترك اي طبقه بيضاء ولا لمعه ع البشره \nبيحتوي ع الهيالورنيك اسيد و حمض السنتيلا ومواد غيرها \nتساعد ع تهدئه البشره",
         "createdAt": "January 21, 2026 at 03:24:42 PM UTC+2",
-        "name": "centella sunscreen",
-        "order": 4,
+        "category": "skincare",
         "id": "pDFbQVoAaOH4Ibst29I2"
     },
     {
-        "category": "skincare",
+        "order": 13,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/25.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 جم",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 5 جم"
             },
             {
-                "name": "تقسيم 10 جم",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 جم"
             },
             {
-                "name": "تقسيم 15 جم",
-                "price": 355
+                "price": 355,
+                "name": "تقسيم 15 جم"
             }
         ],
-        "description": "Medicube Zero Pore Blackhead Mud Mask\r\nماسك  بينضف المسام بعمق ويقلل من الرؤوس السوداء والدهون الزايدة بسرعة في 3 دقايق.\r\nكمان بيدي نضارة، يهدّي الاحمرار، ويشد البشرة من غير ما يسبب جفاف أو تهيّج.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/25.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:45 PM UTC+2",
         "name": "Medicube Zero Pore Blackhead",
-        "order": 13,
+        "createdAt": "January 21, 2026 at 03:24:45 PM UTC+2",
+        "description": "Medicube Zero Pore Blackhead Mud Mask\r\nماسك  بينضف المسام بعمق ويقلل من الرؤوس السوداء والدهون الزايدة بسرعة في 3 دقايق.\r\nكمان بيدي نضارة، يهدّي الاحمرار، ويشد البشرة من غير ما يسبب جفاف أو تهيّج.",
+        "category": "skincare",
         "id": "pfO6vLVmjE9gHtaMlbI0"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1Ro5eztdpSNfIRNbAu6Qm-nsT82fOIWEZ&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1Ro5eztdpSNfIRNbAu6Qm-nsT82fOIWEZ&sz=w1000",
+        "category": "perfumes",
         "name": "KAYALI YUM BOUJEE MARSHMALLOW",
         "createdAt": "2026-02-08T19:49:19.580000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "r2iyb3ff4m6VWXHtTbMp"
     },
     {
-        "category": "makeup",
-        "sizes": [
-            {
-                "name": "1ml",
-                "price": 300
-            },
-            {
-                "name": "2ml",
-                "price": 600
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1uubRu6U6_jbzILhZha0gZWjJL-DMGzrm&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1uubRu6U6_jbzILhZha0gZWjJL-DMGzrm&sz=w1000",
+        "category": "makeup",
         "name": "e.l.f. Camo Liquid Blush, Long-lasting",
         "createdAt": "2026-02-22T01:05:05.490000+00:00",
         "description": "لون غني عالي التركيز – نقطة واحدة تكفي لإطلالة مشرقة\n\n ثبات طويل الأمد بدون تلطخ أو بهتان\n\n قوام كريمي خفيف سهل الدمج ويعطي لمسة طبيعية\n\n قابل للبناء من لون خفيف لنتيجة جريئة\n\n مناسب لجميع أنواع البشرة",
+        "sizes": [
+            {
+                "price": 300,
+                "name": "1ml"
+            },
+            {
+                "price": 600,
+                "name": "2ml"
+            }
+        ],
         "id": "r76PhjYpwC1DeuwxiFah"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1g4PiRT2DVM6vChNwjLKL8z8aUKsAWGZT&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1g4PiRT2DVM6vChNwjLKL8z8aUKsAWGZT&sz=w1000",
+        "category": "perfumes",
         "name": "libre",
         "createdAt": "2026-02-08T19:47:38.154000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "rncrT18A0T9XUPeZulez"
     },
     {
-        "category": "cosmetics",
-        "sizes": [
-            {
-                "name": "باكت(2شفره)",
-                "price": 250
-            },
-            {
-                "name": "شفره فقط",
-                "price": 125
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1pcpTbwuS3kBarAEaSf3VSkWSFTOQiJSK&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1pcpTbwuS3kBarAEaSf3VSkWSFTOQiJSK&sz=w1000",
+        "category": "cosmetics",
         "name": "شفرلت ترينا",
         "createdAt": "2026-02-21T22:44:36.517000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 250,
+                "name": "باكت(2شفره)"
+            },
+            {
+                "price": 125,
+                "name": "شفره فقط"
+            }
+        ],
         "id": "sFPWRDwODQx1Cg9scVr4"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "3ml",
-                "price": 70
-            },
-            {
-                "name": "5ml",
-                "price": 120
-            },
-            {
-                "name": "10ml",
-                "price": 230
-            },
-            {
-                "name": "Half bottle in original packaging",
-                "price": 1500
-            },
-            {
-                "name": "Full size",
-                "price": 2600
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=116PzSr4zsVss7_y_8dM5s1Jp4jh3mUjU&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=116PzSr4zsVss7_y_8dM5s1Jp4jh3mUjU&sz=w1000",
+        "category": "perfumes",
         "name": "Arrogate pink Assaf",
         "createdAt": "2026-02-08T16:37:41.496000+00:00",
         "description": "عطر أروجيت بينك هو اختيار مثالي لكل من تحب العطور الأنثوية الناعمة بلمسة حيوية. يتميز برائحة منعشة في البداية، تتدرج إلى قلب زهري رقيق، ثم يستقر على قاعدة دافئة تضيف عمق وثبات للعطر.\nرائحته متوازنة بين الانتعاش والنعومة، تعطي إحساس بالأناقة والجاذبية بدون ما تكون قوية زيادة عن اللزوم، لذلك يناسب الاستخدام اليومي والخروجات والمناسبات.",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "3ml"
+            },
+            {
+                "price": 120,
+                "name": "5ml"
+            },
+            {
+                "price": 230,
+                "name": "10ml"
+            },
+            {
+                "price": 1500,
+                "name": "Half bottle in original packaging"
+            },
+            {
+                "price": 2600,
+                "name": "Full size"
+            }
+        ],
         "id": "sFX3GVJul0Bo11FwO4KQ"
     },
     {
-        "category": "skincare",
+        "order": 11,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/21.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 330
+                "price": 330,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 650
+                "price": 650,
+                "name": "تقسيم 10 مل"
             }
         ],
-        "description": "Anua azalicacid 10 hyauronic\r\nredness serum \r\nمثالي للبشره الدهنيه المعرضه للحبوب والحساسه الازاليك اسيد \r\nبيقضي ع البكتريا الي تسبب اي حبوب وبيقلل الالتهاب \r\nيعالج مشاكل البشره الدهنيه بدون اي تحسس او تهيج للبشره",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/21.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:44 PM UTC+2",
         "name": "Anua azalicacid 10 hyauronic\r\nredness",
-        "order": 11,
+        "createdAt": "January 21, 2026 at 03:24:44 PM UTC+2",
+        "description": "Anua azalicacid 10 hyauronic\r\nredness serum \r\nمثالي للبشره الدهنيه المعرضه للحبوب والحساسه الازاليك اسيد \r\nبيقضي ع البكتريا الي تسبب اي حبوب وبيقلل الالتهاب \r\nيعالج مشاكل البشره الدهنيه بدون اي تحسس او تهيج للبشره",
+        "category": "skincare",
         "id": "t4NwCewA9JqGaN8Hwvwn"
     },
     {
-        "category": "makeup",
-        "sizes": [],
-        "description": "",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/31.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:25:19 PM UTC+2",
-        "name": "",
         "order": 60,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/31.jpg?raw=true",
+        "sizes": [],
+        "name": "",
+        "createdAt": "January 21, 2026 at 03:25:19 PM UTC+2",
+        "description": "",
+        "category": "makeup",
         "id": "tYDub9OCwI8Sbl2HAMea"
     },
     {
-        "category": "skincare",
+        "order": 8,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/15.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 130
+                "price": 130,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 250
+                "price": 250,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 400
+                "price": 400,
+                "name": "تقسيم 30 مل"
             }
         ],
-        "description": "Anua pore control cleansing oil \r\nيعالج الخيوط الدهنيه و الرؤوس السودا والبيضا \r\nيزيل الشوائب و المكياج و ينقي المسام و يصغرها   \r\nمناسب للبشرات الدهنيه",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/15.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:43 PM UTC+2",
         "name": "Anua pore control cleansing",
-        "order": 8,
+        "createdAt": "January 21, 2026 at 03:24:43 PM UTC+2",
+        "description": "Anua pore control cleansing oil \r\nيعالج الخيوط الدهنيه و الرؤوس السودا والبيضا \r\nيزيل الشوائب و المكياج و ينقي المسام و يصغرها   \r\nمناسب للبشرات الدهنيه",
+        "category": "skincare",
         "id": "tZOSdc1z3bQUyy34o61i"
     },
     {
-        "category": "skincare",
+        "order": 28,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/57.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 جم",
-                "price": 300
+                "price": 300,
+                "name": "تقسيم 10 جم"
             },
             {
-                "name": "تقسيم 5 جم",
-                "price": 160
+                "price": 160,
+                "name": "تقسيم 5 جم"
             }
         ],
-        "description": "snow white gel\r\nتفتيح البقع الداكنه و التصبغات\r\nتوحيد لون البشرة\r\nمناسب للمناطق الحساسه",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/57.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:50 PM UTC+2",
         "name": "snow white gel\r\nتفتيح البقع",
-        "order": 28,
+        "createdAt": "January 21, 2026 at 03:24:50 PM UTC+2",
+        "description": "snow white gel\r\nتفتيح البقع الداكنه و التصبغات\r\nتوحيد لون البشرة\r\nمناسب للمناطق الحساسه",
+        "category": "skincare",
         "id": "uFJ0QM6VE9bOctfKRdtL"
     },
     {
-        "category": "skincare",
+        "order": 24,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/49.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 10 مل",
-                "price": 260
+                "price": 260,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 530
+                "price": 530,
+                "name": "تقسيم 30 مل"
             }
         ],
-        "description": "cosrx 6 peptide serum skin booster\r\n6 أنواع من الببتيدات: تعمل على تعزيز مرونة البشرة، تقليل التجاعيد، \r\nتحسين ملمس البشرة، توحيد اللون، تقليل المسام، وتهدئة البشرة.\r\nيعمل السيروم ع تحقيز انتاج الكولاجين و يعالج اكسده البشره و يعطي نضاره و امتلاء",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/49.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:49 PM UTC+2",
         "name": "cosrx 6 peptide serum",
-        "order": 24,
+        "createdAt": "January 21, 2026 at 03:24:49 PM UTC+2",
+        "description": "cosrx 6 peptide serum skin booster\r\n6 أنواع من الببتيدات: تعمل على تعزيز مرونة البشرة، تقليل التجاعيد، \r\nتحسين ملمس البشرة، توحيد اللون، تقليل المسام، وتهدئة البشرة.\r\nيعمل السيروم ع تحقيز انتاج الكولاجين و يعالج اكسده البشره و يعطي نضاره و امتلاء",
+        "category": "skincare",
         "id": "uJck7ijjDbAeLpS8undL"
     },
     {
-        "category": "makeup",
+        "order": 62,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/35.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 2 مل",
-                "price": 260
+                "price": 260,
+                "name": "تقسيم 2 مل"
             },
             {
-                "name": "تقسيم 5 مل",
-                "price": 650
+                "price": 650,
+                "name": "تقسيم 5 مل"
             }
         ],
-        "description": "Charlotte Tilbury foundation\r\n\r\nتغطية كاملة (Full Coverage)،  \r\nتناسب البشرة العادية إلى الدهنية\r\nمقاومة للعرق والرطوبة والنقل (transfer-proof).\r\nمزيج بين مكياج وعناية بالبشرة: بمعنى أنك تستثمِرين\r\n ليس فقط في تغطية وإنما في تحسين مظهر البشرة\r\n\r\n الدرجات\r\n3W\r\n4W",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/35.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:25:19 PM UTC+2",
         "name": "Charlotte Tilbury foundation\r\n\r\nتغطية كاملة",
-        "order": 62,
+        "createdAt": "January 21, 2026 at 03:25:19 PM UTC+2",
+        "description": "Charlotte Tilbury foundation\r\n\r\nتغطية كاملة (Full Coverage)،  \r\nتناسب البشرة العادية إلى الدهنية\r\nمقاومة للعرق والرطوبة والنقل (transfer-proof).\r\nمزيج بين مكياج وعناية بالبشرة: بمعنى أنك تستثمِرين\r\n ليس فقط في تغطية وإنما في تحسين مظهر البشرة\r\n\r\n الدرجات\r\n3W\r\n4W",
+        "category": "makeup",
         "id": "v5jkngyLNNispZmK9SuO"
     },
     {
-        "category": "skincare",
+        "order": 3,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/5.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 120
+                "price": 120,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 230
+                "price": 230,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 20 مل",
-                "price": 430
+                "price": 430,
+                "name": "تقسيم 20 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 630
+                "price": 630,
+                "name": "تقسيم 30 مل"
             },
             {
-                "name": "تقسيم 50 مل ف العبوه نفسها",
-                "price": 860
+                "price": 860,
+                "name": "تقسيم 50 مل ف العبوه نفسها"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/5.jpg?raw=true",
+        "name": "Centella Brightening Ampoule",
         "description": "Centella Brightening Ampoule\nبيعالج التصبغات و بيدي تفتيح ونضاره\nبيعالج البقع الداكنه واثار الحبوب\nبيحفز انتاج الكولاجين ويقلل من التجاعيد ويشد البشره",
         "createdAt": "January 21, 2026 at 03:24:42 PM UTC+2",
-        "name": "Centella Brightening Ampoule",
-        "order": 3,
+        "category": "skincare",
         "id": "vMfCM6w9ksoKpQTwovzt"
     },
     {
-        "category": "perfumes",
-        "sizes": [
-            {
-                "name": "5ml",
-                "price": 70
-            },
-            {
-                "name": "10ml",
-                "price": 130
-            }
-        ],
-        "image": "https://drive.google.com/thumbnail?id=1oTTctgprHJSs4INPwUD_qw6ng5C1VGqj&sz=w1000",
         "order": 0,
+        "image": "https://drive.google.com/thumbnail?id=1oTTctgprHJSs4INPwUD_qw6ng5C1VGqj&sz=w1000",
+        "category": "perfumes",
         "name": "Tom ford last cherry",
         "createdAt": "2026-02-08T19:53:31.699000+00:00",
         "description": "",
+        "sizes": [
+            {
+                "price": 70,
+                "name": "5ml"
+            },
+            {
+                "price": 130,
+                "name": "10ml"
+            }
+        ],
         "id": "vhJyeOYL0Rts2hhKkvP4"
     },
     {
-        "category": "skincare",
+        "order": 6,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/11.jpg?raw=true",
         "sizes": [
             {
-                "name": "4 PRODUCTS",
-                "price": 800
+                "price": 800,
+                "name": "4 PRODUCTS"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/11.jpg?raw=true",
+        "name": "Centella Bundle",
         "description": "الباندل عباره عن :\n15ml غاسول فوم\n20ml سيروم التفتيح\n15ml غاسول زيتي \n10ml تونر",
         "createdAt": "January 21, 2026 at 03:24:43 PM UTC+2",
-        "name": "Centella Bundle",
-        "order": 6,
+        "category": "skincare",
         "id": "xPLVimYvdP1O8AUBrQKU"
     },
     {
-        "category": "skincare",
+        "order": 21,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/41.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 125
+                "price": 125,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 250
+                "price": 250,
+                "name": "تقسيم 10 مل"
             },
             {
-                "name": "تقسيم 30 مل",
-                "price": 630
+                "price": 630,
+                "name": "تقسيم 30 مل"
             },
             {
-                "name": "تقسيم 50 مل ف العبوه نفسها",
-                "price": 860
+                "price": 860,
+                "name": "تقسيم 50 مل ف العبوه نفسها"
             }
         ],
-        "description": "SKIN1004 FRESH AMPOULE POREMIZING\r\n\r\nسيروم فريش أمبول لتضييق المسام وتنقية البشرة\r\nهو علاج مركز يُعيد التوازن للبشرة ويستهدف مشاكل المسام الواسعة\r\n بتركيبة غنية بمستخلص سنتيلا أسياتيكا النقي بنسبة 100%\r\n ، إلى جانب مكونات تساعد على تقليص حجم المسام وتنقية البشرة.",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/41.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
         "name": "SKIN1004 FRESH AMPOULE POREMIZING\r\n\r\nسيروم",
-        "order": 21,
+        "createdAt": "January 21, 2026 at 03:24:47 PM UTC+2",
+        "description": "SKIN1004 FRESH AMPOULE POREMIZING\r\n\r\nسيروم فريش أمبول لتضييق المسام وتنقية البشرة\r\nهو علاج مركز يُعيد التوازن للبشرة ويستهدف مشاكل المسام الواسعة\r\n بتركيبة غنية بمستخلص سنتيلا أسياتيكا النقي بنسبة 100%\r\n ، إلى جانب مكونات تساعد على تقليص حجم المسام وتنقية البشرة.",
+        "category": "skincare",
         "id": "y2dNOHM4SDLPVK7CyL4W"
     },
     {
-        "category": "makeup",
+        "order": 58,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/27.jpg?raw=true",
         "sizes": [
             {
-                "name": "5ml",
-                "price": 180
+                "price": 180,
+                "name": "5ml"
             },
             {
-                "name": "10ml",
-                "price": 350
+                "price": 350,
+                "name": "10ml"
             }
         ],
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/makeup/27.jpg?raw=true",
+        "name": "huda beauty setting sprayيثبت",
         "description": "huda beauty setting spray\n\nيثبت المكياج لفترة طويلة جدًا (حتى 16 ساعة).\nيقلل مظهر المسام والخطوط.\nبيدّي لمسة طبيعية مع خفة مات خفيفة .\nمقاوم لنقل المكياج (Transfer-proof).\nغير كوميدوجينيك (ما بيسدش المسام) ومش بيسبب جفاف.",
         "createdAt": "January 21, 2026 at 03:25:18 PM UTC+2",
-        "name": "huda beauty setting sprayيثبت",
-        "order": 58,
+        "category": "makeup",
         "id": "yLIhfq7lpqp26e3Xlfq2"
     },
     {
-        "category": "skincare",
+        "order": 15,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/29.jpg?raw=true",
         "sizes": [
             {
-                "name": "تقسيم 5 مل",
-                "price": 200
+                "price": 200,
+                "name": "تقسيم 5 مل"
             },
             {
-                "name": "تقسيم 10 مل",
-                "price": 360
+                "price": 360,
+                "name": "تقسيم 10 مل"
             }
         ],
-        "description": "mixsson bean essence \r\nمستخلص من الفاصولياء والتي تساعد ع تغذيه البشره \r\nو الرمان الممخمر الضي يساعد ع تحسين حاجز البشره المتضرر \r\nالطريقه الاولي:نستعمله زي ايسنس للترطيب و توحيد لون البشره \r\nالطريقه الثانيه : نستعمله كمقشر ع المناطق الي فيها رؤوس وجلد ميت\r\n ونعمل مساج من 3-5 دقائق هنلاحظ ان كل الجلد الميت بيطلع معانا",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/29.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:46 PM UTC+2",
         "name": "mixsson bean essence \r\nمستخلص",
-        "order": 15,
+        "createdAt": "January 21, 2026 at 03:24:46 PM UTC+2",
+        "description": "mixsson bean essence \r\nمستخلص من الفاصولياء والتي تساعد ع تغذيه البشره \r\nو الرمان الممخمر الضي يساعد ع تحسين حاجز البشره المتضرر \r\nالطريقه الاولي:نستعمله زي ايسنس للترطيب و توحيد لون البشره \r\nالطريقه الثانيه : نستعمله كمقشر ع المناطق الي فيها رؤوس وجلد ميت\r\n ونعمل مساج من 3-5 دقائق هنلاحظ ان كل الجلد الميت بيطلع معانا",
+        "category": "skincare",
         "id": "zZrrphp34fYIKB3hUDRI"
     },
     {
-        "category": "skincare",
+        "order": 38,
+        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/81.jpg?raw=true",
         "sizes": [
             {
-                "name": "15ML",
-                "price": 300
+                "price": 300,
+                "name": "15ML"
             }
         ],
-        "description": "skin1004 centella brightening foam cleanser\r\n\r\nتفتيح وتوحيد لون البشرة: \r\nتركيبة غنية بالنياسيناميد وMadeWhite™ \r\nتعمل على تقليل التصبغات والبقع الداكنة\r\nيُعتبر مضادًا للأكسدة، يساعد في تفتيح البشرة وتقليل البقع الداكنة",
-        "image": "https://github.com/basmaLaadel/Bascare-price-list/blob/main/imgs/skincare/81.jpg?raw=true",
-        "createdAt": "January 21, 2026 at 03:24:54 PM UTC+2",
         "name": "skin1004 centella brightening foam",
-        "order": 38,
+        "createdAt": "January 21, 2026 at 03:24:54 PM UTC+2",
+        "description": "skin1004 centella brightening foam cleanser\r\n\r\nتفتيح وتوحيد لون البشرة: \r\nتركيبة غنية بالنياسيناميد وMadeWhite™ \r\nتعمل على تقليل التصبغات والبقع الداكنة\r\nيُعتبر مضادًا للأكسدة، يساعد في تفتيح البشرة وتقليل البقع الداكنة",
+        "category": "skincare",
         "id": "zzEY1XKAPa8hSDdzj1rY"
     }
 ]
