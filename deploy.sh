@@ -21,6 +21,10 @@ else
     git remote add origin https://github.com/basmaLaadel/Bascare-price-list.git
 fi
 
+# Configure git user if not already configured
+git config user.email "deploy@bascare.local" 2>/dev/null || git config --global user.email "deploy@bascare.local"
+git config user.name "Bascare Deploy" 2>/dev/null || git config --global user.name "Bascare Deploy"
+
 # Stage all files
 echo "Staging files..."
 git add -A
@@ -30,18 +34,9 @@ COMMIT_MESSAGE="Deploy: $(date +%Y-%m-%d\ %H:%M:%S)"
 echo "Committing with message: $COMMIT_MESSAGE"
 git commit --allow-empty -m "$COMMIT_MESSAGE" -q
 
-# Configure git user if not already configured in this repo
-git config user.email "deploy@bascare.local" 2>/dev/null || git config --global user.email "deploy@bascare.local"
-git config user.name "Bascare Deploy" 2>/dev/null || git config --global user.name "Bascare Deploy"
-
-# Create or update gh-pages branch
-echo "Creating/updating gh-pages branch..."
-git branch -D gh-pages 2>/dev/null || true
-git checkout --orphan gh-pages
-
-# Force push to gh-pages branch
+# Push to gh-pages branch (sets upstream for orphan branch)
 echo "Pushing to GitHub..."
-git push -f origin gh-pages
+git push -f -u origin HEAD:gh-pages
 
 cd ..
 echo "✅ Deployment complete!"
