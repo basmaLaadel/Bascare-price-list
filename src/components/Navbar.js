@@ -7,7 +7,7 @@ const Navbar = ({ selectedCategory, onCategoryChange }) => {
     { id: 'skincare', label: 'Skincare', icon: 'fas fa-spa' },
     { id: 'makeup', label: 'Makeup', icon: 'fas fa-wand-magic-sparkles' },
     { id: 'perfumes', label: 'Perfumes', icon: 'fas fa-spray-can' },
-    { id: 'other cosmetics', label: 'Cosmetics', icon: 'fas fa-star' }
+    { id: 'cosmetics', label: 'Cosmetics', icon: 'fas fa-star' }
   ];
 
   return (
